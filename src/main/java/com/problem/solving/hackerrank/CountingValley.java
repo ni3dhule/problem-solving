@@ -2,7 +2,8 @@ package com.problem.solving.hackerrank;
 
 public class CountingValley {
 
-    public static int countValleyTraverse(int steps, String path){
+    private CountingValley(){}
+    public static int countValleyTraverse(String path)  {
         int noOfValley = 0;
         String[] valleyPath = path.split("");
         int seaLevel = 0;
