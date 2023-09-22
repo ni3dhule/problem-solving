@@ -10,16 +10,13 @@ public class PairOfElementsTargetSumTest {
     //Find a pair with the given sum in an array
     @Test
     public void getPairsOfElementForTargetSumTest() {
-        //public List<String> getPairsOfElementForTargetSum(int []nums, int target) {
-        int []nums = new int[] {2, 4, 1, 6, 8, 9, 7, 3};
-        List<String> actualResult = PairOfElementsTargetSum.getPairsOfElementForTargetSum(nums, 10);
+        int []arr = new int[] {2, 4, 1, 6, 8, 9, 7, 3};
+        List<String> actualResult = PairOfElementsTargetSum.getPairsOfElementForTargetSum(arr, 10);
         ArrayList<String> expectedResult = new ArrayList<>();
         expectedResult.add("(1,9)");
         expectedResult.add("(2,8)");
         expectedResult.add("(3,7)");
         expectedResult.add("(4,6)");
-
         Assertions.assertTrue(actualResult.containsAll(expectedResult));
-
     }
 }
