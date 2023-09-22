@@ -6,7 +6,7 @@ import java.util.List;
 
 public class PairOfElementsTargetSum {
     //Find a pair with the given sum in an array
-    public List<String> getPairsOfElementForTargetSum(int []nums, int target) {
+    public static List<String> getPairsOfElementForTargetSum(int []nums, int target) {
         // sort the given array and check the pair of item with sum = target element
         Arrays.sort(nums);
 
