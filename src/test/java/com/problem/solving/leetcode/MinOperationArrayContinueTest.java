@@ -11,4 +11,11 @@ public class MinOperationArrayContinueTest {
         int actualesult = MinOperationArrayContinue.minOperations(input);
         Assertions.assertEquals(expectedResult, actualesult);
     }
+    @Test
+    public void getMinOperationToMakeArrayContinue_2(){
+        int[] input = new int[]{1,10,100,1000};
+        int expectedResult = 3;
+        int actualesult = MinOperationArrayContinue.minOperations(input);
+        Assertions.assertEquals(expectedResult, actualesult);
+    }
 }
