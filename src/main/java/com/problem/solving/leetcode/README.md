@@ -10,4 +10,5 @@ iii.1361. Validate Binary Tree Nodes
 https://leetcode.com/problems/validate-binary-tree-nodes/?envType=daily-question&envId=2023-10-17
 iv. 2050. Parallel Courses III
 https://leetcode.com/problems/parallel-courses-iii/?envType=daily-question&envId=2023-10-19
-v. 
+v. 1425. Constrained Subsequence Sum
+https://leetcode.com/problems/constrained-subsequence-sum/?envType=daily-question&envId=2023-10-21
