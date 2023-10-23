@@ -1,7 +1,8 @@
 package com.problem.solving.leetcode;
 
 public class PowerOfFour {
-    public boolean isPowerOfFour(int n) {
+    private PowerOfFour(){}
+    public static boolean isPowerOfFour(int n) {
         if (n <= 0) {
             return false;
         }
