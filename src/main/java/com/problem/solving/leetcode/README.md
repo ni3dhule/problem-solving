@@ -12,3 +12,5 @@ v. 1425. Constrained Subsequence Sum
 https://leetcode.com/problems/constrained-subsequence-sum/?envType=daily-question&envId=2023-10-21
 vi.1793. Maximum Score of a Good Subarray
 https://leetcode.com/problems/maximum-score-of-a-good-subarray/?envType=daily-question&envId=2023-10-22
+vii. 779. K-th Symbol in Grammar
+https://leetcode.com/problems/k-th-symbol-in-grammar/?envType=daily-question&envId=2023-10-25
