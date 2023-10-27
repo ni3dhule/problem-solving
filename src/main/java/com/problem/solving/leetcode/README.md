@@ -16,3 +16,5 @@ vii. 779. K-th Symbol in Grammar
 https://leetcode.com/problems/k-th-symbol-in-grammar/?envType=daily-question&envId=2023-10-25
 viii. 823. Binary Trees With Factors
 https://leetcode.com/problems/binary-trees-with-factors/?envType=daily-question&envId=2023-10-26
+ix. 5. Longest Palindromic Substring
+https://leetcode.com/problems/longest-palindromic-substring/description/?envType=daily-question&envId=2023-10-27
