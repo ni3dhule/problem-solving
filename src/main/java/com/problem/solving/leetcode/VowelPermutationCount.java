@@ -2,7 +2,7 @@ package com.problem.solving.leetcode;
 
 public class VowelPermutationCount {
     private VowelPermutationCount() {}
-    public int countVowelPermutation(int n) {
+    public static int countVowelPermutation(int n) {
         if (n == 1) {
             return 5;
         }
