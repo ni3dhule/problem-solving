@@ -18,3 +18,5 @@ viii. 823. Binary Trees With Factors
 https://leetcode.com/problems/binary-trees-with-factors/?envType=daily-question&envId=2023-10-26
 ix. 5. Longest Palindromic Substring
 https://leetcode.com/problems/longest-palindromic-substring/description/?envType=daily-question&envId=2023-10-27
+x. 1220. Count Vowels Permutation
+https://leetcode.com/problems/count-vowels-permutation/description/?envType=daily-question&envId=2023-10-28
