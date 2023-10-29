@@ -20,3 +20,5 @@ ix. 5. Longest Palindromic Substring
 https://leetcode.com/problems/longest-palindromic-substring/description/?envType=daily-question&envId=2023-10-27
 x. 1220. Count Vowels Permutation
 https://leetcode.com/problems/count-vowels-permutation/description/?envType=daily-question&envId=2023-10-28
+xi. 458. Poor Pigs
+https://leetcode.com/problems/poor-pigs/description/?envType=daily-question&envId=2023-10-29
