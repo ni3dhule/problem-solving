@@ -22,3 +22,5 @@ x. 1220. Count Vowels Permutation
 https://leetcode.com/problems/count-vowels-permutation/description/?envType=daily-question&envId=2023-10-28
 xi. 458. Poor Pigs
 https://leetcode.com/problems/poor-pigs/description/?envType=daily-question&envId=2023-10-29
+12. 501. Find Mode in Binary Search Tree
+https://leetcode.com/problems/find-mode-in-binary-search-tree/?envType=daily-question&envId=2023-11-01
