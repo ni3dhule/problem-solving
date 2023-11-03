@@ -26,4 +26,5 @@ https://leetcode.com/problems/poor-pigs/description/?envType=daily-question&envI
 https://leetcode.com/problems/find-mode-in-binary-search-tree/?envType=daily-question&envId=2023-11-01
 13. 2265. Count Nodes Equal to Average of Subtree
 https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/?envType=daily-question&envId=2023-11-02
-14. 
+14. 1441. Build an Array With Stack Operations
+https://leetcode.com/problems/build-an-array-with-stack-operations/description/?envType=daily-question&envId=2023-11-03
