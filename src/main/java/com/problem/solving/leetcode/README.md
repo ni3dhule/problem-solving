@@ -28,3 +28,6 @@ https://leetcode.com/problems/find-mode-in-binary-search-tree/?envType=daily-que
 https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/?envType=daily-question&envId=2023-11-02
 14. 1441. Build an Array With Stack Operations
 https://leetcode.com/problems/build-an-array-with-stack-operations/description/?envType=daily-question&envId=2023-11-03
+15. 1503. Last Moment Before All Ants Fall Out of a Plank
+https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/?envType=daily-question&envId=2023-11-04
+16. 
