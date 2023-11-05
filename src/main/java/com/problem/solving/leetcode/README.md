@@ -30,4 +30,5 @@ https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/?envType=d
 https://leetcode.com/problems/build-an-array-with-stack-operations/description/?envType=daily-question&envId=2023-11-03
 15. 1503. Last Moment Before All Ants Fall Out of a Plank
 https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/?envType=daily-question&envId=2023-11-04
-16. 
+16. 1535. Find the Winner of an Array Game
+https://leetcode.com/problems/find-the-winner-of-an-array-game/?envType=daily-question&envId=2023-11-05
