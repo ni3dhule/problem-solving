@@ -32,3 +32,5 @@ https://leetcode.com/problems/build-an-array-with-stack-operations/description/?
 https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/?envType=daily-question&envId=2023-11-04
 16. 1535. Find the Winner of an Array Game
 https://leetcode.com/problems/find-the-winner-of-an-array-game/?envType=daily-question&envId=2023-11-05
+17. 1845. Seat Reservation Manager
+https://leetcode.com/problems/seat-reservation-manager/description/?envType=daily-question&envId=2023-11-06

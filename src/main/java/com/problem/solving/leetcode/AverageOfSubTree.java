@@ -1,14 +1,13 @@
 package com.problem.solving.leetcode;
 
 public class AverageOfSubTree {
-    private AverageOfSubTree() {
-    }
+    private AverageOfSubTree() {}
     static int count=0;
     public static int averageOfSubTree(TreeNode root) {
         sol(root);
         return count;
     }
-    static class Pair{
+    static class Pair {
         int sum;
         int num;
         Pair(int sum,int num){
@@ -26,20 +25,19 @@ public class AverageOfSubTree {
         if(root.val==sum1/num1)count++;
         return new Pair(sum1,num1);
     }
-
-    class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-        TreeNode() {
-        }
-        TreeNode(int val) {
-            this.val = val;
-        }
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
+}
+class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+    TreeNode() {
+    }
+    TreeNode(int val) {
+        this.val = val;
+    }
+    TreeNode(int val, TreeNode left, TreeNode right) {
+        this.val = val;
+        this.left = left;
+        this.right = right;
     }
 }
