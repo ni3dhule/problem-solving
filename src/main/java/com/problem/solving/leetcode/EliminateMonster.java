@@ -5,7 +5,9 @@ import java.util.PriorityQueue;
 public class EliminateMonster {
     private EliminateMonster(){}
     public static int eliminateMaximum(int[] dist, int[] speed) {
-        int wpTime = 0, killCount = 0, sz = dist.length;
+        int wpTime = 0;
+        int killCount = 0;
+        int sz = dist.length;
         PriorityQueue<Integer> reachTimes = new PriorityQueue<>();
         for(int indx = 0; indx < sz; indx++){
 
