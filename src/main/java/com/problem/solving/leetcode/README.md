@@ -34,3 +34,5 @@ https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/de
 https://leetcode.com/problems/find-the-winner-of-an-array-game/?envType=daily-question&envId=2023-11-05
 17. 1845. Seat Reservation Manager
 https://leetcode.com/problems/seat-reservation-manager/description/?envType=daily-question&envId=2023-11-06
+18. 1921. Eliminate Maximum Number of Monsters
+https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/?envType=daily-question&envId=2023-11-07
