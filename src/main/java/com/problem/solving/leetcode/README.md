@@ -42,3 +42,5 @@ https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/?
 https://leetcode.com/problems/count-number-of-homogenous-substrings/?envType=daily-question&envId=2023-11-09
 21. 1743. Restore the Array From Adjacent Pairs
 https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/?envType=daily-question&envId=2023-11-10
+22. 2642. Design Graph With Shortest Path Calculator
+https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/?envType=daily-question&envId=2023-11-11
