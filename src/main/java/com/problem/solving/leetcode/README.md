@@ -44,3 +44,5 @@ https://leetcode.com/problems/count-number-of-homogenous-substrings/?envType=dai
 https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/?envType=daily-question&envId=2023-11-10
 22. 2642. Design Graph With Shortest Path Calculator
 https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/?envType=daily-question&envId=2023-11-11
+23. 815. Bus Routes
+https://leetcode.com/problems/bus-routes/description/?envType=daily-question&envId=2023-11-12
