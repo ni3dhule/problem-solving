@@ -46,3 +46,6 @@ https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/
 https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/?envType=daily-question&envId=2023-11-11
 23. 815. Bus Routes
 https://leetcode.com/problems/bus-routes/description/?envType=daily-question&envId=2023-11-12
+24. 2785. Sort Vowels in a String
+https://leetcode.com/problems/sort-vowels-in-a-string/?envType=daily-question&envId=2023-11-13
+25. 
