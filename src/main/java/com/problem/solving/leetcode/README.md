@@ -48,4 +48,5 @@ https://leetcode.com/problems/design-graph-with-shortest-path-calculator/descrip
 https://leetcode.com/problems/bus-routes/description/?envType=daily-question&envId=2023-11-12
 24. 2785. Sort Vowels in a String
 https://leetcode.com/problems/sort-vowels-in-a-string/?envType=daily-question&envId=2023-11-13
-25. 
+25. 1930. Unique Length-3 Palindromic Subsequences
+https://leetcode.com/problems/unique-length-3-palindromic-subsequences/solutions/?envType=daily-question&envId=2023-11-14
