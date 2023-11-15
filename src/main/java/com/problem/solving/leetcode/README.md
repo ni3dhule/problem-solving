@@ -50,3 +50,6 @@ https://leetcode.com/problems/bus-routes/description/?envType=daily-question&env
 https://leetcode.com/problems/sort-vowels-in-a-string/?envType=daily-question&envId=2023-11-13
 25. 1930. Unique Length-3 Palindromic Subsequences
 https://leetcode.com/problems/unique-length-3-palindromic-subsequences/solutions/?envType=daily-question&envId=2023-11-14
+26. 1846. Maximum Element After Decreasing and Rearranging
+https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/?envType=daily-question&envId=2023-11-15
+27. 
