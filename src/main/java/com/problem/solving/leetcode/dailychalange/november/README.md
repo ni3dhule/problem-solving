@@ -8,5 +8,7 @@ https://leetcode.com/problems/frequency-of-the-most-frequent-element/?envType=da
 https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/?envType=daily-question&envId=2023-11-19
 5. 2391. Minimum Amount of Time to Collect Garbage
 https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/?envType=daily-question&envId=2023-11-20
+6. 1814. Count Nice Pairs in an Array
+https://leetcode.com/problems/count-nice-pairs-in-an-array/?envType=daily-question&envId=2023-11-21
 
 
