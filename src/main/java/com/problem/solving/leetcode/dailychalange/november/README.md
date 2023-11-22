@@ -10,5 +10,7 @@ https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-eq
 https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/?envType=daily-question&envId=2023-11-20
 6. 1814. Count Nice Pairs in an Array
 https://leetcode.com/problems/count-nice-pairs-in-an-array/?envType=daily-question&envId=2023-11-21
+7. 1424. Diagonal Traverse II
+https://leetcode.com/problems/diagonal-traverse-ii/?envType=daily-question&envId=2023-11-22
 
 
