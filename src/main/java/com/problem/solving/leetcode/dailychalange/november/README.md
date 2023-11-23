@@ -12,5 +12,8 @@ https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/?envType
 https://leetcode.com/problems/count-nice-pairs-in-an-array/?envType=daily-question&envId=2023-11-21
 7. 1424. Diagonal Traverse II
 https://leetcode.com/problems/diagonal-traverse-ii/?envType=daily-question&envId=2023-11-22
+8. 1630. Arithmetic Subarrays
+https://leetcode.com/problems/arithmetic-subarrays/description/?envType=daily-question&envId=2023-11-23
+
 
 
