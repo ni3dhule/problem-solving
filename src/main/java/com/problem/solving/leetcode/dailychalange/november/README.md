@@ -14,6 +14,8 @@ https://leetcode.com/problems/count-nice-pairs-in-an-array/?envType=daily-questi
 https://leetcode.com/problems/diagonal-traverse-ii/?envType=daily-question&envId=2023-11-22
 8. 1630. Arithmetic Subarrays
 https://leetcode.com/problems/arithmetic-subarrays/description/?envType=daily-question&envId=2023-11-23
+9. 1561. Maximum Number of Coins You Can Get
+https://leetcode.com/problems/maximum-number-of-coins-you-can-get/?envType=daily-question&envId=2023-11-24
 
 
 
