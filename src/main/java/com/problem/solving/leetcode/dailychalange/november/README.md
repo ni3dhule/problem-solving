@@ -18,6 +18,8 @@ https://leetcode.com/problems/arithmetic-subarrays/description/?envType=daily-qu
 https://leetcode.com/problems/maximum-number-of-coins-you-can-get/?envType=daily-question&envId=2023-11-24
 10. 1685. Sum of Absolute Differences in a Sorted Array
 https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/description/?envType=daily-question&envId=2023-11-25
+11. 1727. Largest Submatrix With Rearrangements
+https://leetcode.com/problems/largest-submatrix-with-rearrangements/?envType=daily-question&envId=2023-11-26
 
 
 
