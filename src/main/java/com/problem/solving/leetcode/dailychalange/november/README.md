@@ -20,6 +20,6 @@ https://leetcode.com/problems/maximum-number-of-coins-you-can-get/?envType=daily
 https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/description/?envType=daily-question&envId=2023-11-25
 11. 1727. Largest Submatrix With Rearrangements
 https://leetcode.com/problems/largest-submatrix-with-rearrangements/?envType=daily-question&envId=2023-11-26
-
-
+12. 935. Knight Dialer
+https://leetcode.com/problems/knight-dialer/?envType=daily-question&envId=2023-11-27
 
