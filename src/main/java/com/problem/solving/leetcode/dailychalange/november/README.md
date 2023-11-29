@@ -22,4 +22,6 @@ https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/desc
 https://leetcode.com/problems/largest-submatrix-with-rearrangements/?envType=daily-question&envId=2023-11-26
 12. 935. Knight Dialer
 https://leetcode.com/problems/knight-dialer/?envType=daily-question&envId=2023-11-27
+13. 2147. Number of Ways to Divide a Long Corridor
+https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/submissions/?envType=daily-question&envId=2023-11-28
 
