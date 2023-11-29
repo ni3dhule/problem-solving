@@ -24,4 +24,5 @@ https://leetcode.com/problems/largest-submatrix-with-rearrangements/?envType=dai
 https://leetcode.com/problems/knight-dialer/?envType=daily-question&envId=2023-11-27
 13. 2147. Number of Ways to Divide a Long Corridor
 https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/submissions/?envType=daily-question&envId=2023-11-28
-
+14. 191. Number of 1 Bits
+https://leetcode.com/problems/number-of-1-bits/?envType=daily-question&envId=2023-11-29
