@@ -2,7 +2,7 @@ package com.problem.solving.leetcode.dailychalange.november;
 
 public class TwoStringArrayEquals {
     private TwoStringArrayEquals(){}
-    public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
+    public static boolean arrayStringsAreEqual(String[] word1, String[] word2) {
         int pointer1 = 0;  // Pointer for word1
         int pointer2 = 0;  // Pointer for word2
         int idx1 = 0;      // Index for the current word in word1
