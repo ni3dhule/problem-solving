@@ -30,3 +30,5 @@ https://leetcode.com/problems/number-of-1-bits/?envType=daily-question&envId=202
 https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/?envType=daily-question&envId=2023-11-30
 16. 1662. Check If Two String Arrays are Equivalent
 https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/?envType=daily-question&envId=2023-12-01
+17.1160. Find Words That Can Be Formed by Characters
+https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/?envType=daily-question&envId=2023-12-02
