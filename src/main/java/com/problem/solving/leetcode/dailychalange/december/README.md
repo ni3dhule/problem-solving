@@ -4,3 +4,5 @@ https://leetcode.com/problems/minimum-time-visiting-all-points/description/?envT
 https://leetcode.com/problems/largest-3-same-digit-number-in-string/?envType=daily-question&envId=2023-12-04
 3. 1688. Count of Matches in Tournament
 https://leetcode.com/problems/count-of-matches-in-tournament/?envType=daily-question&envId=2023-12-05
+4. 1716. Calculate Money in Leetcode Bank
+https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/?envType=daily-question&envId=2023-12-06
