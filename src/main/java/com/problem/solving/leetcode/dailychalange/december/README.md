@@ -8,3 +8,6 @@ https://leetcode.com/problems/count-of-matches-in-tournament/?envType=daily-ques
 https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/?envType=daily-question&envId=2023-12-06
 5. 1903. Largest Odd Number in String
 https://leetcode.com/problems/largest-odd-number-in-string/?envType=daily-question&envId=2023-12-07
+6. 606. Construct String from Binary Tree
+https://leetcode.com/problems/construct-string-from-binary-tree/description/?envType=daily-question&envId=2023-12-08
+7. 
