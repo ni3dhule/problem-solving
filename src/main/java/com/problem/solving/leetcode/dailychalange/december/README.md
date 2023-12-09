@@ -10,4 +10,5 @@ https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/?envT
 https://leetcode.com/problems/largest-odd-number-in-string/?envType=daily-question&envId=2023-12-07
 6. 606. Construct String from Binary Tree
 https://leetcode.com/problems/construct-string-from-binary-tree/description/?envType=daily-question&envId=2023-12-08
-7. 
+7. 94. Binary Tree Inorder Traversal
+https://leetcode.com/problems/binary-tree-inorder-traversal/?envType=daily-question&envId=2023-12-09
