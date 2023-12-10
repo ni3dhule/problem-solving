@@ -12,3 +12,5 @@ https://leetcode.com/problems/largest-odd-number-in-string/?envType=daily-questi
 https://leetcode.com/problems/construct-string-from-binary-tree/description/?envType=daily-question&envId=2023-12-08
 7. 94. Binary Tree Inorder Traversal
 https://leetcode.com/problems/binary-tree-inorder-traversal/?envType=daily-question&envId=2023-12-09
+8. 867. Transpose Matrix
+https://leetcode.com/problems/transpose-matrix/?envType=daily-question&envId=2023-12-10
