@@ -14,3 +14,5 @@ https://leetcode.com/problems/construct-string-from-binary-tree/description/?env
 https://leetcode.com/problems/binary-tree-inorder-traversal/?envType=daily-question&envId=2023-12-09
 8. 867. Transpose Matrix
 https://leetcode.com/problems/transpose-matrix/?envType=daily-question&envId=2023-12-10
+9. 1287. Element Appearing More Than 25% In Sorted Array
+https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/?envType=daily-question&envId=2023-12-11
