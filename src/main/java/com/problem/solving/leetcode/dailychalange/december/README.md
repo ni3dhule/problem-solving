@@ -16,3 +16,5 @@ https://leetcode.com/problems/binary-tree-inorder-traversal/?envType=daily-quest
 https://leetcode.com/problems/transpose-matrix/?envType=daily-question&envId=2023-12-10
 9. 1287. Element Appearing More Than 25% In Sorted Array
 https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/?envType=daily-question&envId=2023-12-11
+10. 1464. Maximum Product of Two Elements in an Array
+https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/?envType=daily-question&envId=2023-12-12
