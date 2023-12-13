@@ -18,3 +18,5 @@ https://leetcode.com/problems/transpose-matrix/?envType=daily-question&envId=202
 https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/?envType=daily-question&envId=2023-12-11
 10. 1464. Maximum Product of Two Elements in an Array
 https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/?envType=daily-question&envId=2023-12-12
+11. 1582. Special Positions in a Binary Matrix
+https://leetcode.com/problems/special-positions-in-a-binary-matrix/?envType=daily-question&envId=2023-12-13
