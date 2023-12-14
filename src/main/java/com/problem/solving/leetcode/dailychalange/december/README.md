@@ -20,3 +20,6 @@ https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/?en
 https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/?envType=daily-question&envId=2023-12-12
 11. 1582. Special Positions in a Binary Matrix
 https://leetcode.com/problems/special-positions-in-a-binary-matrix/?envType=daily-question&envId=2023-12-13
+12. 2482. Difference Between Ones and Zeros in Row and Column
+https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/?envType=daily-question&envId=2023-12-14
+13. 
