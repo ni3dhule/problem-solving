@@ -1,6 +1,7 @@
 package com.problem.solving.leetcode.dailychalange.december;
 
 public class SpecialPositionInMatrix {
+    private SpecialPositionInMatrix(){}
     public static int numSpecial(int[][] mat) {
         int specials = 0;
         for (int i = 0; i < mat.length; i++) {
