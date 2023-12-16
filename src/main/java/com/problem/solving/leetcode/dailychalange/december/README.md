@@ -24,3 +24,5 @@ https://leetcode.com/problems/special-positions-in-a-binary-matrix/?envType=dail
 https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/?envType=daily-question&envId=2023-12-14
 13. 1436. Destination City
 https://leetcode.com/problems/destination-city/description/?envType=daily-question&envId=2023-12-15
+14. 242. Valid Anagram
+https://leetcode.com/problems/valid-anagram/?envType=daily-question&envId=2023-12-16
