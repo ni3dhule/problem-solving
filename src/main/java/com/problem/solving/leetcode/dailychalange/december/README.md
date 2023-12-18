@@ -28,3 +28,5 @@ https://leetcode.com/problems/destination-city/description/?envType=daily-questi
 https://leetcode.com/problems/valid-anagram/?envType=daily-question&envId=2023-12-16
 15. 2353. Design a Food Rating System
 https://leetcode.com/problems/design-a-food-rating-system/?envType=daily-question&envId=2023-12-17
+16. 1913. Maximum Product Difference Between Two Pairs
+https://leetcode.com/problems/maximum-product-difference-between-two-pairs/?envType=daily-question&envId=2023-12-18
