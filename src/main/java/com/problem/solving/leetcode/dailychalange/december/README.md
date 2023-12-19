@@ -30,3 +30,5 @@ https://leetcode.com/problems/valid-anagram/?envType=daily-question&envId=2023-1
 https://leetcode.com/problems/design-a-food-rating-system/?envType=daily-question&envId=2023-12-17
 16. 1913. Maximum Product Difference Between Two Pairs
 https://leetcode.com/problems/maximum-product-difference-between-two-pairs/?envType=daily-question&envId=2023-12-18
+17. 661. Image Smoother
+https://leetcode.com/problems/image-smoother/?envType=daily-question&envId=2023-12-19
