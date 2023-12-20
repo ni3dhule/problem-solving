@@ -32,3 +32,5 @@ https://leetcode.com/problems/design-a-food-rating-system/?envType=daily-questio
 https://leetcode.com/problems/maximum-product-difference-between-two-pairs/?envType=daily-question&envId=2023-12-18
 17. 661. Image Smoother
 https://leetcode.com/problems/image-smoother/?envType=daily-question&envId=2023-12-19
+18. 2706. Buy Two Chocolates
+https://leetcode.com/problems/buy-two-chocolates/description/?envType=daily-question&envId=2023-12-20
