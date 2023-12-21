@@ -34,3 +34,5 @@ https://leetcode.com/problems/maximum-product-difference-between-two-pairs/?envT
 https://leetcode.com/problems/image-smoother/?envType=daily-question&envId=2023-12-19
 18. 2706. Buy Two Chocolates
 https://leetcode.com/problems/buy-two-chocolates/description/?envType=daily-question&envId=2023-12-20
+19. 1637. Widest Vertical Area Between Two Points Containing No Points
+https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/?envType=daily-question&envId=2023-12-21
