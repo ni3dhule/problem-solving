@@ -38,3 +38,6 @@ https://leetcode.com/problems/buy-two-chocolates/description/?envType=daily-ques
 https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/?envType=daily-question&envId=2023-12-21
 20. 1422. Maximum Score After Splitting a String
 https://leetcode.com/problems/maximum-score-after-splitting-a-string/?envType=daily-question&envId=2023-12-22
+21. 1496. Path Crossing
+https://leetcode.com/problems/path-crossing/description/?envType=daily-question&envId=2023-12-23
+22. 
