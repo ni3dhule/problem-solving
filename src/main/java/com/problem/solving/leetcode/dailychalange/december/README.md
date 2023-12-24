@@ -40,4 +40,5 @@ https://leetcode.com/problems/widest-vertical-area-between-two-points-containing
 https://leetcode.com/problems/maximum-score-after-splitting-a-string/?envType=daily-question&envId=2023-12-22
 21. 1496. Path Crossing
 https://leetcode.com/problems/path-crossing/description/?envType=daily-question&envId=2023-12-23
-22. 
+22. 1758. Minimum Changes To Make Alternating Binary String
+https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/?envType=daily-question&envId=2023-12-24
