@@ -42,3 +42,5 @@ https://leetcode.com/problems/maximum-score-after-splitting-a-string/?envType=da
 https://leetcode.com/problems/path-crossing/description/?envType=daily-question&envId=2023-12-23
 22. 1758. Minimum Changes To Make Alternating Binary String
 https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/?envType=daily-question&envId=2023-12-24
+23. 91. Decode Ways
+https://leetcode.com/problems/decode-ways/description/?envType=daily-question&envId=2023-12-25
