@@ -46,4 +46,5 @@ https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
 https://leetcode.com/problems/decode-ways/description/?envType=daily-question&envId=2023-12-25
 24. 1155. Number of Dice Rolls With Target Sum
 https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/?envType=daily-question&envId=2023-12-26
-25. 
+25. 1578. Minimum Time to Make Rope Colorful
+https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/?envType=daily-question&envId=2023-12-27
