@@ -48,3 +48,5 @@ https://leetcode.com/problems/decode-ways/description/?envType=daily-question&en
 https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/?envType=daily-question&envId=2023-12-26
 25. 1578. Minimum Time to Make Rope Colorful
 https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/?envType=daily-question&envId=2023-12-27
+26. 1531. String Compression II
+https://leetcode.com/problems/string-compression-ii/description/?envType=daily-question&envId=2023-12-28
