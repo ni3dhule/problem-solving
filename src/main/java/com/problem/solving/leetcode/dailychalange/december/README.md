@@ -52,3 +52,5 @@ https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/?en
 https://leetcode.com/problems/string-compression-ii/description/?envType=daily-question&envId=2023-12-28
 27. 1335. Minimum Difficulty of a Job Schedule
 https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/?envType=daily-question&envId=2023-12-29
+28. 1897. Redistribute Characters to Make All Strings Equal
+https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/?envType=daily-question&envId=2023-12-30
