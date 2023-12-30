@@ -50,3 +50,5 @@ https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/?
 https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/?envType=daily-question&envId=2023-12-27
 26. 1531. String Compression II
 https://leetcode.com/problems/string-compression-ii/description/?envType=daily-question&envId=2023-12-28
+27. 1335. Minimum Difficulty of a Job Schedule
+https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/?envType=daily-question&envId=2023-12-29
