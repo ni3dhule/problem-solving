@@ -54,3 +54,5 @@ https://leetcode.com/problems/string-compression-ii/description/?envType=daily-q
 https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/?envType=daily-question&envId=2023-12-29
 28. 1897. Redistribute Characters to Make All Strings Equal
 https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/?envType=daily-question&envId=2023-12-30
+29. 1624. Largest Substring Between Two Equal Characters
+https://leetcode.com/problems/largest-substring-between-two-equal-characters/?envType=daily-question&envId=2023-12-31
