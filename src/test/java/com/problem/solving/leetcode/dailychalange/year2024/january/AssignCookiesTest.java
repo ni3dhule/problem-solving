@@ -11,5 +11,12 @@ public class AssignCookiesTest {
         int expectedMaxChildren = 1;
         int actualMaxChildren = AssignCookies.findContentChildren(greedFactor, cookieSize);
         Assertions.assertEquals(expectedMaxChildren, actualMaxChildren);
+
+        int[] greedFactor2 = new int[]{1,2};
+        int[] cookieSize2 = new int[]{1,2,3};
+        int expectedMaxChildren2 = 2;
+        int actualMaxChildren2 = AssignCookies.findContentChildren(greedFactor2, cookieSize2);
+        Assertions.assertEquals(expectedMaxChildren2, actualMaxChildren2);
+
     }
 }
