@@ -6,3 +6,5 @@ https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/d
 https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/?envType=daily-question&envId=2024-01-03
 4. 2870. Minimum Number of Operations to Make Array Empty
 https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/?envType=daily-question&envId=2024-01-04
+5. 300. Longest Increasing Subsequence
+https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=daily-question&envId=2024-01-05
