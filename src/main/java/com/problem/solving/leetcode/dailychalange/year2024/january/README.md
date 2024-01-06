@@ -8,3 +8,5 @@ https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/?envTy
 https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/?envType=daily-question&envId=2024-01-04
 5. 300. Longest Increasing Subsequence
 https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=daily-question&envId=2024-01-05
+6. 1235. Maximum Profit in Job Scheduling
+https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/?envType=daily-question&envId=2024-01-06
