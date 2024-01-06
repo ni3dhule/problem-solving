@@ -1,6 +1,5 @@
 package com.problem.solving.leetcode.dailychalange.year2023.november;
 
-import com.problem.solving.leetcode.dailychalange.november.WaysToDivideOfLongCorridor;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 

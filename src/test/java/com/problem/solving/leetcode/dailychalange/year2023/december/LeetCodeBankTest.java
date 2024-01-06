@@ -1,6 +1,5 @@
 package com.problem.solving.leetcode.dailychalange.year2023.december;
 
-import com.problem.solving.leetcode.dailychalange.december.LeetCodeBank;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 
