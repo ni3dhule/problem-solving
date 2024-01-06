@@ -32,11 +32,7 @@ public class FoodRatingSystem {
 
     public String highestRated(String cuisine) {
         Food highestRated = cuisineFoodMap.get(cuisine).peek();
-        while (foodRatingMap.get(highestRated.foodName) != highestRated.foodRating) {
-            cuisineFoodMap.get(cuisine).poll();
-            highestRated = cuisineFoodMap.get(cuisine).peek();
-        }
-        return highestRated.foodName;
+        return ""+highestRated;
     }
 
 }

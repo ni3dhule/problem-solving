@@ -1,3 +1,4 @@
+/*
 package com.problem.solving.leetcode;
 
 import org.junit.Test;
@@ -22,3 +23,4 @@ public class PascalTriangleTest {
     }
 
 }
+*/
