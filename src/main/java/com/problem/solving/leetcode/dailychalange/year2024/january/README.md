@@ -10,3 +10,5 @@ https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/d
 https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=daily-question&envId=2024-01-05
 6. 1235. Maximum Profit in Job Scheduling
 https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/?envType=daily-question&envId=2024-01-06
+7. 446. Arithmetic Slices II - Subsequence
+https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/?envType=daily-question&envId=2024-01-07
