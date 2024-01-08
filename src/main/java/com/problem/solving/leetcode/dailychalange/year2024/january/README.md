@@ -12,3 +12,5 @@ https://leetcode.com/problems/longest-increasing-subsequence/description/?envTyp
 https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/?envType=daily-question&envId=2024-01-06
 7. 446. Arithmetic Slices II - Subsequence
 https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/?envType=daily-question&envId=2024-01-07
+8. 938. Range Sum of BST
+https://leetcode.com/problems/range-sum-of-bst/description/?envType=daily-question&envId=2024-01-08
