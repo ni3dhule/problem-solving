@@ -14,3 +14,5 @@ https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/?envT
 https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/?envType=daily-question&envId=2024-01-07
 8. 938. Range Sum of BST
 https://leetcode.com/problems/range-sum-of-bst/description/?envType=daily-question&envId=2024-01-08
+9. 872. Leaf-Similar Trees
+https://leetcode.com/problems/leaf-similar-trees/description/?envType=daily-question&envId=2024-01-09
