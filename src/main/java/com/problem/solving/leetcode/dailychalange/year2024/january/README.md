@@ -16,3 +16,5 @@ https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/?envT
 https://leetcode.com/problems/range-sum-of-bst/description/?envType=daily-question&envId=2024-01-08
 9. 872. Leaf-Similar Trees
 https://leetcode.com/problems/leaf-similar-trees/description/?envType=daily-question&envId=2024-01-09
+10. 2385. Amount of Time for Binary Tree to Be Infected
+https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10
