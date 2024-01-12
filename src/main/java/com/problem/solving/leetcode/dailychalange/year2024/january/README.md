@@ -20,3 +20,5 @@ https://leetcode.com/problems/leaf-similar-trees/description/?envType=daily-ques
 https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10
 11. 1026. Maximum Difference Between Node and Ancestor
 https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/?envType=daily-question&envId=2024-01-11
+12. 1704. Determine if String Halves Are Alike
+https://leetcode.com/problems/determine-if-string-halves-are-alike/description/?envType=daily-question&envId=2024-01-12
