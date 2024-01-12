@@ -12,6 +12,6 @@ public class HalvesStringsAreAlikeTest {
         Assertions.assertEquals(expectedResult, actualResult);
 
         String input1 = "textbook";
-        Assertions.assertEquals(HalvesStringsAreAlike.halvesAreAlike(input1), false);
+        Assertions.assertEquals(false, HalvesStringsAreAlike.halvesAreAlike(input1));
     }
 }
