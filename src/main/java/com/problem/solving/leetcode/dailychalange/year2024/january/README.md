@@ -22,3 +22,5 @@ https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/desc
 https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/?envType=daily-question&envId=2024-01-11
 12. 1704. Determine if String Halves Are Alike
 https://leetcode.com/problems/determine-if-string-halves-are-alike/description/?envType=daily-question&envId=2024-01-12
+13. 1347. Minimum Number of Steps to Make Two Strings Anagram
+ https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/?envType=daily-question&envId=2024-01-13
