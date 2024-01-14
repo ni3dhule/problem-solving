@@ -23,4 +23,7 @@ https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/descr
 12. 1704. Determine if String Halves Are Alike
 https://leetcode.com/problems/determine-if-string-halves-are-alike/description/?envType=daily-question&envId=2024-01-12
 13. 1347. Minimum Number of Steps to Make Two Strings Anagram
- https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/?envType=daily-question&envId=2024-01-13
+https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/?envType=daily-question&envId=2024-01-13
+14. 1657. Determine if Two Strings Are Close
+https://leetcode.com/problems/determine-if-two-strings-are-close/description/?envType=daily-question&envId=2024-01-14
+15. 
