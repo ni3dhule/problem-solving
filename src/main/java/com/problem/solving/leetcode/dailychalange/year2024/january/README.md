@@ -28,3 +28,5 @@ https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagra
 https://leetcode.com/problems/determine-if-two-strings-are-close/description/?envType=daily-question&envId=2024-01-14
 15. 2225. Find Players With Zero or One Losses
 https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/?envType=daily-question&envId=2024-01-15
+16. 380. Insert Delete GetRandom O(1)
+https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=daily-question&envId=2024-01-16
