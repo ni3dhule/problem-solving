@@ -30,3 +30,5 @@ https://leetcode.com/problems/determine-if-two-strings-are-close/description/?en
 https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/?envType=daily-question&envId=2024-01-15
 16. 380. Insert Delete GetRandom O(1)
 https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=daily-question&envId=2024-01-16
+17. 1207. Unique Number of Occurrences
+https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=daily-question&envId=2024-01-17
