@@ -32,3 +32,5 @@ https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/?
 https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=daily-question&envId=2024-01-16
 17. 1207. Unique Number of Occurrences
 https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=daily-question&envId=2024-01-17
+18. 70. Climbing Stairs
+https://leetcode.com/problems/climbing-stairs/description/?envType=daily-question&envId=2024-01-18
