@@ -34,3 +34,5 @@ https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=da
 https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=daily-question&envId=2024-01-17
 18. 70. Climbing Stairs
 https://leetcode.com/problems/climbing-stairs/description/?envType=daily-question&envId=2024-01-18
+19. 931. Minimum Falling Path Sum
+https://leetcode.com/problems/minimum-falling-path-sum/description/?envType=daily-question&envId=2024-01-19
