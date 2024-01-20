@@ -36,3 +36,5 @@ https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=
 https://leetcode.com/problems/climbing-stairs/description/?envType=daily-question&envId=2024-01-18
 19. 931. Minimum Falling Path Sum
 https://leetcode.com/problems/minimum-falling-path-sum/description/?envType=daily-question&envId=2024-01-19
+20. 907. Sum of Subarray Minimums
+https://leetcode.com/problems/sum-of-subarray-minimums/description/?envType=daily-question&envId=2024-01-20
