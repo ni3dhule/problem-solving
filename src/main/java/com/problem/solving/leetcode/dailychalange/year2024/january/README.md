@@ -40,3 +40,5 @@ https://leetcode.com/problems/minimum-falling-path-sum/description/?envType=dail
 https://leetcode.com/problems/sum-of-subarray-minimums/description/?envType=daily-question&envId=2024-01-20
 21. 198. House Robber
 https://leetcode.com/problems/house-robber/?envType=daily-question&envId=2024-01-21
+22. 645. Set Mismatch
+https://leetcode.com/problems/set-mismatch/description/?envType=daily-question&envId=2024-01-22
