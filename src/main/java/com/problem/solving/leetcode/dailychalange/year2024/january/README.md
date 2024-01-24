@@ -44,3 +44,5 @@ https://leetcode.com/problems/house-robber/?envType=daily-question&envId=2024-01
 https://leetcode.com/problems/set-mismatch/description/?envType=daily-question&envId=2024-01-22
 23. 1239. Maximum Length of a Concatenated String with Unique Characters
 https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/?envType=daily-question&envId=2024-01-23
+24. 1457. Pseudo-Palindromic Paths in a Binary Tree
+https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/?envType=daily-question&envId=2024-01-24
