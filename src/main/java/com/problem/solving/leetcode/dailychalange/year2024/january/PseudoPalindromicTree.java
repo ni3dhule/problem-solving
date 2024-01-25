@@ -1,15 +1,10 @@
 package com.problem.solving.leetcode.dailychalange.year2024.january;
-
-import jdk.internal.util.xml.impl.Pair;
-
-import java.util.Stack;
-
 public class PseudoPalindromicTree {
     private PseudoPalindromicTree(){}
     public int pseudoPalindromicPaths (TreeNode root) {
         int count = 0, path = 0;
 
-        Stack<Pair<TreeNode, Integer>> stack = new Stack<>();
+        /*Stack<Pair<TreeNode, Integer>> stack = new Stack<>();
         stack.push(new Pair<>(root, 0));
 
         while (!stack.isEmpty()) {
@@ -28,7 +23,7 @@ public class PseudoPalindromicTree {
                     stack.push(new Pair<>(node.left, path));
                 }
             }
-        }
+        }*/
         return count;
     }
 }

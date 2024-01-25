@@ -46,3 +46,5 @@ https://leetcode.com/problems/set-mismatch/description/?envType=daily-question&e
 https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/?envType=daily-question&envId=2024-01-23
 24. 1457. Pseudo-Palindromic Paths in a Binary Tree
 https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/?envType=daily-question&envId=2024-01-24
+25. 1143. Longest Common Subsequence
+https://leetcode.com/problems/longest-common-subsequence/description/?envType=daily-question&envId=2024-01-25
