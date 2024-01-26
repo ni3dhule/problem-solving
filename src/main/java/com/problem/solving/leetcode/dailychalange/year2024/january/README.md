@@ -48,3 +48,5 @@ https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-uniqu
 https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/?envType=daily-question&envId=2024-01-24
 25. 1143. Longest Common Subsequence
 https://leetcode.com/problems/longest-common-subsequence/description/?envType=daily-question&envId=2024-01-25
+26. 576. Out of Boundary Paths
+https://leetcode.com/problems/out-of-boundary-paths/description/?envType=daily-question&envId=2024-01-26

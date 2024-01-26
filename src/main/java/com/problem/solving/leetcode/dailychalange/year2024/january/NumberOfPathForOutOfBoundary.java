@@ -1,0 +1,31 @@
+package com.problem.solving.leetcode.dailychalange.year2024.january;
+
+public class NumberOfPathForOutOfBoundary {
+    private NumberOfPathForOutOfBoundary(){}
+    public static Integer[][][] dp;
+    public static int mod = 1_000_000_000+7;
+    static int m;
+    static int n;
+    public static int findPaths(int localM, int localN, int maxMove, int x, int y) {
+        dp = new Integer[m][n][maxMove+1];
+        m=localM;
+        n=localN;
+        return helper(maxMove, x, y);
+    }
+    private static int helper(int maxMove, int x, int y){
+        if(x < 0 || x >= m || y < 0 || y >= n)return 1;
+        if(maxMove <= 0)return 0;
+        if(dp[x][y][maxMove] != null){
+            return dp[x][y][maxMove];
+        }
+        int res=0;
+
+        res=(res+helper(maxMove-1, x+1, y))%mod;
+        res=(res+helper(maxMove-1, x, y-1))%mod;
+        res=(res+helper(maxMove-1, x-1, y))%mod;
+        res=(res+helper(maxMove-1, x, y+1))%mod;
+
+        dp[x][y][maxMove]=res;
+        return res;
+    }
+}
