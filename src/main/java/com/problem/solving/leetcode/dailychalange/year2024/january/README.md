@@ -50,3 +50,5 @@ https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/descript
 https://leetcode.com/problems/longest-common-subsequence/description/?envType=daily-question&envId=2024-01-25
 26. 576. Out of Boundary Paths
 https://leetcode.com/problems/out-of-boundary-paths/description/?envType=daily-question&envId=2024-01-26
+27. 629. K Inverse Pairs Array
+https://leetcode.com/problems/k-inverse-pairs-array/description/?envType=daily-question&envId=2024-01-27
