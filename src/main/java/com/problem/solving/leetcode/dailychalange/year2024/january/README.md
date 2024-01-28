@@ -52,3 +52,5 @@ https://leetcode.com/problems/longest-common-subsequence/description/?envType=da
 https://leetcode.com/problems/out-of-boundary-paths/description/?envType=daily-question&envId=2024-01-26
 27. 629. K Inverse Pairs Array
 https://leetcode.com/problems/k-inverse-pairs-array/description/?envType=daily-question&envId=2024-01-27
+28. 1074. Number of Submatrices That Sum to Target
+https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/?envType=daily-question&envId=2024-01-28
