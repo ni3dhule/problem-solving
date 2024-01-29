@@ -54,3 +54,5 @@ https://leetcode.com/problems/out-of-boundary-paths/description/?envType=daily-q
 https://leetcode.com/problems/k-inverse-pairs-array/description/?envType=daily-question&envId=2024-01-27
 28. 1074. Number of Submatrices That Sum to Target
 https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/?envType=daily-question&envId=2024-01-28
+29. 232. Implement Queue using Stacks
+https://leetcode.com/problems/implement-queue-using-stacks/description/?envType=daily-question&envId=2024-01-29
