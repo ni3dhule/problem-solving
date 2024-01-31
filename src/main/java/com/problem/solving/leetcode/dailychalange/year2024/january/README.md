@@ -58,3 +58,5 @@ https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/descripti
 https://leetcode.com/problems/implement-queue-using-stacks/description/?envType=daily-question&envId=2024-01-29
 30. 150. Evaluate Reverse Polish Notation
 https://leetcode.com/problems/evaluate-reverse-polish-notation/description/?envType=daily-question&envId=2024-01-30
+31. 739. Daily Temperatures
+https://leetcode.com/problems/daily-temperatures/description/?envType=daily-question&envId=2024-01-31
