@@ -1,2 +1,4 @@
 1. 2966. Divide Array Into Arrays With Max Difference
 https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/?envType=daily-question&envId=2024-02-01
+2. 1291. Sequential Digits
+https://leetcode.com/problems/sequential-digits/description/?envType=daily-question&envId=2024-02-02
