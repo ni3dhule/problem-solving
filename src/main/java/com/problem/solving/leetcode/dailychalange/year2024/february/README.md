@@ -10,3 +10,5 @@ https://leetcode.com/problems/minimum-window-substring/description/?envType=dail
 https://leetcode.com/problems/first-unique-character-in-a-string/description/?envType=daily-question&envId=2024-02-05
 6. 49. Group Anagrams
 https://leetcode.com/problems/group-anagrams/?envType=daily-question&envId=2024-02-06
+7. 451. Sort Characters By Frequency
+https://leetcode.com/problems/sort-characters-by-frequency/description/?envType=daily-question&envId=2024-02-07
