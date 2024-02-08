@@ -12,3 +12,5 @@ https://leetcode.com/problems/first-unique-character-in-a-string/description/?en
 https://leetcode.com/problems/group-anagrams/?envType=daily-question&envId=2024-02-06
 7. 451. Sort Characters By Frequency
 https://leetcode.com/problems/sort-characters-by-frequency/description/?envType=daily-question&envId=2024-02-07
+8. 279. Perfect Squares
+https://leetcode.com/problems/perfect-squares/description/?envType=daily-question&envId=2024-02-08
