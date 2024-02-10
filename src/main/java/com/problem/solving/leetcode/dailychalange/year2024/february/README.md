@@ -16,3 +16,5 @@ https://leetcode.com/problems/sort-characters-by-frequency/description/?envType=
 https://leetcode.com/problems/perfect-squares/description/?envType=daily-question&envId=2024-02-08
 9. 368. Largest Divisible Subset
 https://leetcode.com/problems/largest-divisible-subset/description/?envType=daily-question&envId=2024-02-09
+10. 647. Palindromic Substrings
+https://leetcode.com/problems/palindromic-substrings/description/?envType=daily-question&envId=2024-02-10
