@@ -20,3 +20,5 @@ https://leetcode.com/problems/largest-divisible-subset/description/?envType=dail
 https://leetcode.com/problems/palindromic-substrings/description/?envType=daily-question&envId=2024-02-10
 11. 1463. Cherry Pickup II
 https://leetcode.com/problems/cherry-pickup-ii/description/?envType=daily-question&envId=2024-02-11
+12. 169. Majority Element
+https://leetcode.com/problems/majority-element/description/?envType=daily-question&envId=2024-02-12
