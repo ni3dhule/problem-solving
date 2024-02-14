@@ -24,3 +24,5 @@ https://leetcode.com/problems/cherry-pickup-ii/description/?envType=daily-questi
 https://leetcode.com/problems/majority-element/description/?envType=daily-question&envId=2024-02-12
 13. 2108. Find First Palindromic String in the Array
 https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/?envType=daily-question&envId=2024-02-13
+14. 2149. Rearrange Array Elements by Sign
+https://leetcode.com/problems/rearrange-array-elements-by-sign/description/?envType=daily-question&envId=2024-02-14
