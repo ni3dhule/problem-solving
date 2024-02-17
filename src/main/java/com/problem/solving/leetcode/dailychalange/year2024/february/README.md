@@ -30,3 +30,5 @@ https://leetcode.com/problems/rearrange-array-elements-by-sign/description/?envT
 https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/description/?envType=daily-question&envId=2024-02-15
 16. 1481. Least Number of Unique Integers after K Removals
 https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/?envType=daily-question&envId=2024-02-16
+17. 1642. Furthest Building You Can Reach
+https://leetcode.com/problems/furthest-building-you-can-reach/description/?envType=daily-question&envId=2024-02-17
