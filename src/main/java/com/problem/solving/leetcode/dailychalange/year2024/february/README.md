@@ -32,3 +32,5 @@ https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/descriptio
 https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/?envType=daily-question&envId=2024-02-16
 17. 1642. Furthest Building You Can Reach
 https://leetcode.com/problems/furthest-building-you-can-reach/description/?envType=daily-question&envId=2024-02-17
+18. 2402. Meeting Rooms III
+https://leetcode.com/problems/meeting-rooms-iii/description/?envType=daily-question&envId=2024-02-18
