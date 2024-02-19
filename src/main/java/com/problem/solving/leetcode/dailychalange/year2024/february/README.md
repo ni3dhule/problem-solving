@@ -34,3 +34,5 @@ https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/d
 https://leetcode.com/problems/furthest-building-you-can-reach/description/?envType=daily-question&envId=2024-02-17
 18. 2402. Meeting Rooms III
 https://leetcode.com/problems/meeting-rooms-iii/description/?envType=daily-question&envId=2024-02-18
+19. 231. Power of Two
+https://leetcode.com/problems/power-of-two/description/?envType=daily-question&envId=2024-02-19
