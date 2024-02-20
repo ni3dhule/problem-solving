@@ -36,3 +36,5 @@ https://leetcode.com/problems/furthest-building-you-can-reach/description/?envTy
 https://leetcode.com/problems/meeting-rooms-iii/description/?envType=daily-question&envId=2024-02-18
 19. 231. Power of Two
 https://leetcode.com/problems/power-of-two/description/?envType=daily-question&envId=2024-02-19
+20. 268. Missing Number
+https://leetcode.com/problems/missing-number/description/?envType=daily-question&envId=2024-02-20
