@@ -40,3 +40,5 @@ https://leetcode.com/problems/power-of-two/description/?envType=daily-question&e
 https://leetcode.com/problems/missing-number/description/?envType=daily-question&envId=2024-02-20
 21. 201. Bitwise AND of Numbers Range
 https://leetcode.com/problems/bitwise-and-of-numbers-range/description/?envType=daily-question&envId=2024-02-21
+22. 997. Find the Town Judge
+https://leetcode.com/problems/find-the-town-judge/description/?envType=daily-question&envId=2024-02-22
