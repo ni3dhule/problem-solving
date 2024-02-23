@@ -42,3 +42,5 @@ https://leetcode.com/problems/missing-number/description/?envType=daily-question
 https://leetcode.com/problems/bitwise-and-of-numbers-range/description/?envType=daily-question&envId=2024-02-21
 22. 997. Find the Town Judge
 https://leetcode.com/problems/find-the-town-judge/description/?envType=daily-question&envId=2024-02-22
+23. 787. Cheapest Flights Within K Stops
+https://leetcode.com/problems/cheapest-flights-within-k-stops/description/?envType=daily-question&envId=2024-02-23
