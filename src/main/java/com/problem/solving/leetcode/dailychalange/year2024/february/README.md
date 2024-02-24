@@ -44,3 +44,5 @@ https://leetcode.com/problems/bitwise-and-of-numbers-range/description/?envType=
 https://leetcode.com/problems/find-the-town-judge/description/?envType=daily-question&envId=2024-02-22
 23. 787. Cheapest Flights Within K Stops
 https://leetcode.com/problems/cheapest-flights-within-k-stops/description/?envType=daily-question&envId=2024-02-23
+24. 2092. Find All People With Secret
+https://leetcode.com/problems/find-all-people-with-secret/description/?envType=daily-question&envId=2024-02-24
