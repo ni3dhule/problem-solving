@@ -1,0 +1,142 @@
+
+Hibernate: create table icc_player (id integer not null auto_increment, career_start_date date, dob date, first_name varchar(255), gender varchar(255), last_name varchar(255), retired bit not null, retirement_date date, team_id integer not null, primary key (id)) engine=InnoDB
+
+Hibernate: create table icc_player_one_day_mapping (id integer not null auto_increment, average float not null, best_bowling varchar(255), best_score integer not null, best_score_against_team_id integer not null, career_start_date date, economy float not null, player_id integer not null, retired bit not null, retirement_date date, total_centuries integer not null, total_fifties integer not null, total_five_wickets integer not null, total_man_of_the_match integer not null, total_matches_played integer not null, total_runs integer not null, total_wickets_taken integer not null, primary key (id)) engine=InnoDB
+
+Hibernate: create table icc_player_t20_mapping (id integer not null auto_increment, average float not null, best_bowling varchar(255), best_score integer not null, best_score_against_team_id integer not null, career_start_date date, economy float not null, player_id integer not null, retired bit not null, retirement_date date, total_centuries integer not null, total_fifties integer not null, total_five_wickets integer not null, total_man_of_the_match integer not null, total_matches_played integer not null, total_runs integer not null, total_wickets_taken integer not null, primary key (id)) engine=InnoDB
+
+Hibernate: create table icc_player_test_mapping (id integer not null auto_increment, average float not null, best_bowling varchar(255), best_score integer not null, best_score_against_team_id integer not null, career_start_date date, economy float not null, player_id integer not null, retired bit not null, retirement_date date, total_centuries integer not null, total_fifties integer not null, total_five_wickets integer not null, total_man_of_the_match integer not null, total_matches_played integer not null, total_runs integer not null, total_wickets_taken integer not null, primary key (id)) engine=InnoDB
+
+Hibernate: create table icc_rankings (id integer not null auto_increment, creation_date date, icc_rank integer not null, points integer not null, team_id integer not null, updated_date date, year integer not null, primary key (id)) engine=InnoDB
+
+Hibernate: create table icc_team_one_day_mapping (id integer not null auto_increment, highest_score integer not null, highest_score_against_team_id integer not null, highest_score_chased integer not null, highest_score_chased_against_team_id integer not null, lowest_score integer not null, lowest_score_against_team_id integer not null, team_id integer not null, total_matches_drew integer not null, total_matches_lost integer not null, total_matches_played integer not null, total_matches_won integer not null, primary key (id)) engine=InnoDB
+
+Hibernate: create table icc_team_t20_mapping (id integer not null auto_increment, highest_score integer not null, highest_score_against_team_id integer not null, highest_score_chased integer not null, highest_score_chased_against_team_id integer not null, lowest_score integer not null, lowest_score_against_team_id integer not null, team_id integer not null, total_matches_drew integer not null, total_matches_lost integer not null, total_matches_played integer not null, total_matches_won integer not null, primary key (id)) engine=InnoDB
+
+Hibernate: create table icc_team_test_mapping (id integer not null auto_increment, highest_score integer not null, highest_score_against_team_id integer not null, highest_score_chased integer not null, highest_score_chased_against_team_id integer not null, lowest_score integer not null, lowest_score_against_team_id integer not null, team_id integer not null, total_matches_drew integer not null, total_matches_lost integer not null, total_matches_played integer not null, total_matches_won integer not null, primary key (id)) engine=InnoDB
+
+Hibernate: create table icc_teams (id integer not null auto_increment, active bit not null, code varchar(255), country varchar(255), country_code varchar(255), name varchar(255), primary key (id)) engine=InnoDB
+
+INSERT INTO icc_cricket_app.icc_teams (active, code, country, name) VALUES (true, 'AUS', 'Australia', 'Australia');
+INSERT INTO icc_cricket_app.icc_teams (active, code, country, name) VALUES (true, 'ENG', 'England', 'England');
+INSERT INTO icc_cricket_app.icc_teams (active, code, country, name) VALUES (true, 'IND', 'India', 'India');
+INSERT INTO icc_cricket_app.icc_teams (active, code, country, name) VALUES (true, 'NZL', 'New Zealand', 'New Zealand');
+INSERT INTO icc_cricket_app.icc_teams (active, code, country, name) VALUES (true, 'PAK', 'Pakistan', 'Pakistan');
+INSERT INTO icc_cricket_app.icc_teams (active, code, country, name) VALUES (true, 'SAF', 'South Africa', 'South Afrika');
+INSERT INTO icc_cricket_app.icc_teams (active, code, country, name) VALUES (true, 'SL', 'Sri Lanka', 'Sri Lanka');
+INSERT INTO icc_cricket_app.icc_teams (active, code, country, name) VALUES (true, 'WI', 'West Indies', 'West Indies');
+INSERT INTO icc_cricket_app.icc_teams (active, code, country, name) VALUES (true, 'IRE', 'Ireland', 'Ireland');
+INSERT INTO icc_cricket_app.icc_teams (active, code, country, name) VALUES (true, 'ZIM', 'Zimbabwe', 'Zimbabwe');
+INSERT INTO icc_cricket_app.icc_teams (active, code, country, name) VALUES (true, 'AFG', 'Afghanistan', 'Afghanistan');
+INSERT INTO icc_cricket_app.icc_teams (active, code, country, name) VALUES (true, 'SCL', 'Scotland', 'Scotland');
+INSERT INTO icc_cricket_app.icc_teams (active, code, country, name) VALUES (true, 'NED', 'Netherland', 'Netherland');
+INSERT INTO icc_cricket_app.icc_teams (active, code, country, name) VALUES (true, 'NEP', 'Nepal', 'Nepal');
+
+
+EndPoints:
+localhost:8081/icc-cricket/v1/teams/status - get - get service is up or down
+localhost:8081/icc-cricket/v1/teams/teams - get - retrieve all teams
+localhost:8081/icc-cricket/v1/teams/team - post - create team
+
+
+[
+    {
+      "name": "Australia",
+      "code": "AUS",
+      "country": "Australia",
+      "active": "true"
+    },
+    {
+      "name": "England",
+      "code": "ENG",
+      "country": "England",
+      "active": "true"
+    },
+    {
+      "name": "India",
+      "code": "IND",
+      "country": "India",
+      "active": "true"
+    },
+    {
+      "name": "New Zealand",
+      "code": "NZL",
+      "country": "New Zealand",
+      "active": "true"
+    },
+    {
+      "name": "Pakistan",
+      "code": "PAK",
+      "country": "Pakistan",
+      "active": "true"
+    },
+    {
+      "name": "South Africa",
+      "code": "SA",
+      "country": "South Africa",
+      "active": "true"
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "SL",
+      "country": "Sri Lanka",
+      "active": "true"
+    },
+    {
+      "name": "West Indies",
+      "code": "WI",
+      "country": "West Indies",
+      "active": "true"
+    },
+    {
+      "name": "Ireland",
+      "code": "IRE",
+      "country": "Ireland",
+      "active": "true"
+    },
+    {
+      "name": "Zimbabwe",
+      "code": "ZIM",
+      "country": "Zimbabwe",
+      "active": "true"
+    },
+    {
+      "name": "Afghanistan",
+      "code": "AFG",
+      "country": "Afghanistan",
+      "active": "true"
+    },
+    {
+      "name": "Scotland",
+      "code": "SCL",
+      "country": "Scotland",
+      "active": "true"
+    },
+    {
+      "name": "Netherland",
+      "code": "NED",
+      "country": "Netherland",
+      "active": "true"
+    },
+    {
+      "name": "Nepal",
+      "code": "NEP",
+      "country": "Nepal",
+      "active": "true"
+    }
+]
+
+-- -------------------------------------------------------
+{
+    "teamId" : "",
+    "firstName" : "",
+    "lastName" : "",
+    "gender" : "",
+    "dob" :  "",
+    "retired" : "",
+    "careerStartDate" : "",
+    "retirementDate" : ""
+}
+
+localhost:8081/icc-cricket/v1/players/player - post - save player
+localhost:8081/icc-cricket/v1/players/
