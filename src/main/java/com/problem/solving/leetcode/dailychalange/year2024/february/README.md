@@ -46,6 +46,9 @@ https://leetcode.com/problems/find-the-town-judge/description/?envType=daily-que
 https://leetcode.com/problems/cheapest-flights-within-k-stops/description/?envType=daily-question&envId=2024-02-23
 24. 2092. Find All People With Secret
 https://leetcode.com/problems/find-all-people-with-secret/description/?envType=daily-question&envId=2024-02-24
-25. -
+25. 2709. Greatest Common Divisor Traversal
+https://leetcode.com/problems/greatest-common-divisor-traversal/description/?envType=daily-question&envId=2024-02-25
 26. 100. Same Tree
 https://leetcode.com/problems/same-tree/description/?envType=daily-question&envId=2024-02-26
+27. 543. Diameter of Binary Tree
+https://leetcode.com/problems/diameter-of-binary-tree/description/?envType=daily-question&envId=2024-02-27
