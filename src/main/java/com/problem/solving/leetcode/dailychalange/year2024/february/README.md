@@ -52,3 +52,7 @@ https://leetcode.com/problems/greatest-common-divisor-traversal/description/?env
 https://leetcode.com/problems/same-tree/description/?envType=daily-question&envId=2024-02-26
 27. 543. Diameter of Binary Tree
 https://leetcode.com/problems/diameter-of-binary-tree/description/?envType=daily-question&envId=2024-02-27
+28. 513. Find Bottom Left Tree Value
+https://leetcode.com/problems/find-bottom-left-tree-value/description/?envType=daily-question&envId=2024-02-28
+29. 1609. Even Odd Tree
+https://leetcode.com/problems/even-odd-tree/description/?envType=daily-question&envId=2024-02-29
