@@ -10,4 +10,5 @@ https://leetcode.com/problems/bag-of-tokens/description/?envType=daily-question&
 https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description/?envType=daily-question&envId=2024-03-05
 6. 141. Linked List Cycle
 https://leetcode.com/problems/linked-list-cycle/description/?envType=daily-question&envId=2024-03-06
-7. 
+7. 876. Middle of the Linked List
+https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=daily-question&envId=2024-03-07
