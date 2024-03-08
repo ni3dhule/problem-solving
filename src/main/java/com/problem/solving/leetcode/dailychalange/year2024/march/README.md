@@ -12,3 +12,5 @@ https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-en
 https://leetcode.com/problems/linked-list-cycle/description/?envType=daily-question&envId=2024-03-06
 7. 876. Middle of the Linked List
 https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=daily-question&envId=2024-03-07
+8. 3005. Count Elements With Maximum Frequency
+https://leetcode.com/problems/count-elements-with-maximum-frequency/description/?envType=daily-question&envId=2024-03-08
