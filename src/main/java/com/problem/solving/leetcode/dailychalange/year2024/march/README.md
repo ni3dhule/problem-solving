@@ -14,3 +14,5 @@ https://leetcode.com/problems/linked-list-cycle/description/?envType=daily-quest
 https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=daily-question&envId=2024-03-07
 8. 3005. Count Elements With Maximum Frequency
 https://leetcode.com/problems/count-elements-with-maximum-frequency/description/?envType=daily-question&envId=2024-03-08
+9. 2540. Minimum Common Value
+https://leetcode.com/problems/minimum-common-value/description/?envType=daily-question&envId=2024-03-09
