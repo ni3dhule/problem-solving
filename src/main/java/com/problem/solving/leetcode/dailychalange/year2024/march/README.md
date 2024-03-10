@@ -16,3 +16,5 @@ https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=dai
 https://leetcode.com/problems/count-elements-with-maximum-frequency/description/?envType=daily-question&envId=2024-03-08
 9. 2540. Minimum Common Value
 https://leetcode.com/problems/minimum-common-value/description/?envType=daily-question&envId=2024-03-09
+10. 349. Intersection of Two Arrays
+https://leetcode.com/problems/intersection-of-two-arrays/description/?envType=daily-question&envId=2024-03-10
