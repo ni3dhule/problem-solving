@@ -20,3 +20,5 @@ https://leetcode.com/problems/minimum-common-value/description/?envType=daily-qu
 https://leetcode.com/problems/intersection-of-two-arrays/description/?envType=daily-question&envId=2024-03-10
 11. 791. Custom Sort String
 https://leetcode.com/problems/custom-sort-string/description/?envType=daily-question&envId=2024-03-11
+12. 1171. Remove Zero Sum Consecutive Nodes from Linked List
+https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/?envType=daily-question&envId=2024-03-12
