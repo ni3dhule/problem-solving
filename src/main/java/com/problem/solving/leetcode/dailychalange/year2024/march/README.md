@@ -22,3 +22,5 @@ https://leetcode.com/problems/intersection-of-two-arrays/description/?envType=da
 https://leetcode.com/problems/custom-sort-string/description/?envType=daily-question&envId=2024-03-11
 12. 1171. Remove Zero Sum Consecutive Nodes from Linked List
 https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/?envType=daily-question&envId=2024-03-12
+13. 2485. Find the Pivot Integer
+https://leetcode.com/problems/find-the-pivot-integer/description/?envType=daily-question&envId=2024-03-13
