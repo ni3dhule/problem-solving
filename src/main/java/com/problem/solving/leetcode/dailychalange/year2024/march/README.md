@@ -24,3 +24,5 @@ https://leetcode.com/problems/custom-sort-string/description/?envType=daily-ques
 https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/?envType=daily-question&envId=2024-03-12
 13. 2485. Find the Pivot Integer
 https://leetcode.com/problems/find-the-pivot-integer/description/?envType=daily-question&envId=2024-03-13
+14. 930. Binary Subarrays With Sum
+https://leetcode.com/problems/binary-subarrays-with-sum/description/?envType=daily-question&envId=2024-03-14
