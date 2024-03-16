@@ -28,3 +28,5 @@ https://leetcode.com/problems/find-the-pivot-integer/description/?envType=daily-
 https://leetcode.com/problems/binary-subarrays-with-sum/description/?envType=daily-question&envId=2024-03-14
 15. 238. Product of Array Except Self
 https://leetcode.com/problems/product-of-array-except-self/description/?envType=daily-question&envId=2024-03-15
+16. 525. Contiguous Array
+https://leetcode.com/problems/contiguous-array/description/?envType=daily-question&envId=2024-03-16
