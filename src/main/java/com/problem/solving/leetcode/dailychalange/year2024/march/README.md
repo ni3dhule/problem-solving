@@ -38,3 +38,5 @@ https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/submiss
 https://leetcode.com/problems/task-scheduler/description/?envType=daily-question&envId=2024-03-19
 20. 1669. Merge In Between Linked Lists
 https://leetcode.com/problems/merge-in-between-linked-lists/description/?envType=daily-question&envId=2024-03-20
+21. 206. Reverse Linked List
+https://leetcode.com/problems/reverse-linked-list/description/?envType=daily-question&envId=2024-03-21
