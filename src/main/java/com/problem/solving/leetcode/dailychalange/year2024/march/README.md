@@ -44,3 +44,5 @@ https://leetcode.com/problems/reverse-linked-list/description/?envType=daily-que
 https://leetcode.com/problems/palindrome-linked-list/description/?envType=daily-question&envId=2024-03-22
 23. 143. Reorder List
 https://leetcode.com/problems/reorder-list/description/?envType=daily-question&envId=2024-03-23
+24. 287. Find the Duplicate Number
+https://leetcode.com/problems/find-the-duplicate-number/description/?envType=daily-question&envId=2024-03-24
