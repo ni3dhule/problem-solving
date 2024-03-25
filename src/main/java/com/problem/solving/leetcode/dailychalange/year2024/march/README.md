@@ -46,3 +46,5 @@ https://leetcode.com/problems/palindrome-linked-list/description/?envType=daily-
 https://leetcode.com/problems/reorder-list/description/?envType=daily-question&envId=2024-03-23
 24. 287. Find the Duplicate Number
 https://leetcode.com/problems/find-the-duplicate-number/description/?envType=daily-question&envId=2024-03-24
+25. 442. Find All Duplicates in an Array
+https://leetcode.com/problems/find-all-duplicates-in-an-array/?envType=daily-question&envId=2024-03-25
