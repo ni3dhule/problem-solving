@@ -48,3 +48,5 @@ https://leetcode.com/problems/reorder-list/description/?envType=daily-question&e
 https://leetcode.com/problems/find-the-duplicate-number/description/?envType=daily-question&envId=2024-03-24
 25. 442. Find All Duplicates in an Array
 https://leetcode.com/problems/find-all-duplicates-in-an-array/?envType=daily-question&envId=2024-03-25
+26. 41. First Missing Positive
+https://leetcode.com/problems/first-missing-positive/description/?envType=daily-question&envId=2024-03-26
