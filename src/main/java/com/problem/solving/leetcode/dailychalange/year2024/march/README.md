@@ -50,3 +50,5 @@ https://leetcode.com/problems/find-the-duplicate-number/description/?envType=dai
 https://leetcode.com/problems/find-all-duplicates-in-an-array/?envType=daily-question&envId=2024-03-25
 26. 41. First Missing Positive
 https://leetcode.com/problems/first-missing-positive/description/?envType=daily-question&envId=2024-03-26
+27. 713. Subarray Product Less Than K
+https://leetcode.com/problems/subarray-product-less-than-k/?envType=daily-question&envId=2024-03-27
