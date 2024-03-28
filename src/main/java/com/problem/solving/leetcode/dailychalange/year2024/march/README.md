@@ -52,3 +52,5 @@ https://leetcode.com/problems/find-all-duplicates-in-an-array/?envType=daily-que
 https://leetcode.com/problems/first-missing-positive/description/?envType=daily-question&envId=2024-03-26
 27. 713. Subarray Product Less Than K
 https://leetcode.com/problems/subarray-product-less-than-k/?envType=daily-question&envId=2024-03-27
+28. 2958. Length of Longest Subarray With at Most K Frequency
+https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/?envType=daily-question&envId=2024-03-28
