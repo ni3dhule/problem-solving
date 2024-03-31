@@ -58,3 +58,5 @@ https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequenc
 https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/?envType=daily-question&envId=2024-03-29
 30. 992. Subarrays with K Different Integers
 https://leetcode.com/problems/subarrays-with-k-different-integers/description/?envType=daily-question&envId=2024-03-30
+31. 2444. Count Subarrays With Fixed Bounds
+ttps://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/?envType=daily-question&envId=2024-03-31
