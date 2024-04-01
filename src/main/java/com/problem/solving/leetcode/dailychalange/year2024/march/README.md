@@ -54,9 +54,9 @@ https://leetcode.com/problems/first-missing-positive/description/?envType=daily-
 https://leetcode.com/problems/subarray-product-less-than-k/?envType=daily-question&envId=2024-03-27
 28. 2958. Length of Longest Subarray With at Most K Frequency
 https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/?envType=daily-question&envId=2024-03-28
-29.  2962. Count Subarrays Where Max Element Appears at Least K Times
+29.  2962. Count sub arrays Where Max Element Appears at Least K Times
 https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/?envType=daily-question&envId=2024-03-29
 30. 992. Subarrays with K Different Integers
 https://leetcode.com/problems/subarrays-with-k-different-integers/description/?envType=daily-question&envId=2024-03-30
-31. 2444. Count Subarrays With Fixed Bounds
+31. 2444. Count sub arrays With Fixed Bounds
 https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/?envType=daily-question&envId=2024-03-31
