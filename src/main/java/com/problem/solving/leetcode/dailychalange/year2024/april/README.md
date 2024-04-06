@@ -8,3 +8,5 @@ https://leetcode.com/problems/word-search/description/?envType=daily-question&en
 https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/?envType=daily-question&envId=2024-04-04
 5. 1544. Make The String Great
 https://leetcode.com/problems/make-the-string-great/description/?envType=daily-question&envId=2024-04-05
+6. 1249. Minimum Remove to Make Valid Parentheses
+https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/?envType=daily-question&envId=2024-04-06
