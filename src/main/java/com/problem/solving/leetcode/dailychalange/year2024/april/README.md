@@ -10,3 +10,5 @@ https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/descripti
 https://leetcode.com/problems/make-the-string-great/description/?envType=daily-question&envId=2024-04-05
 6. 1249. Minimum Remove to Make Valid Parentheses
 https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/?envType=daily-question&envId=2024-04-06
+7. 678. Valid Parenthesis String
+https://leetcode.com/problems/valid-parenthesis-string/description/?envType=daily-question&envId=2024-04-07
