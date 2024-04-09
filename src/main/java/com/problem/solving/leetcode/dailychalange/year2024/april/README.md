@@ -14,3 +14,5 @@ https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/descripti
 https://leetcode.com/problems/valid-parenthesis-string/description/?envType=daily-question&envId=2024-04-07
 8. 1700. Number of Students Unable to Eat Lunch
 https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/?envType=daily-question&envId=2024-04-08
+9. 2073. Time Needed to Buy Tickets
+https://leetcode.com/problems/time-needed-to-buy-tickets/?envType=daily-question&envId=2024-04-09
