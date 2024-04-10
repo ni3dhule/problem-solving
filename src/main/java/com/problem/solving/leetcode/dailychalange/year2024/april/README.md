@@ -16,3 +16,5 @@ https://leetcode.com/problems/valid-parenthesis-string/description/?envType=dail
 https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/?envType=daily-question&envId=2024-04-08
 9. 2073. Time Needed to Buy Tickets
 https://leetcode.com/problems/time-needed-to-buy-tickets/?envType=daily-question&envId=2024-04-09
+10. 950. Reveal Cards In Increasing Order
+https://leetcode.com/problems/reveal-cards-in-increasing-order/description/?envType=daily-question&envId=2024-04-10
