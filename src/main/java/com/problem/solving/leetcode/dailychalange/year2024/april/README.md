@@ -18,3 +18,5 @@ https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description
 https://leetcode.com/problems/time-needed-to-buy-tickets/?envType=daily-question&envId=2024-04-09
 10. 950. Reveal Cards In Increasing Order
 https://leetcode.com/problems/reveal-cards-in-increasing-order/description/?envType=daily-question&envId=2024-04-10
+11. 402. Remove K Digits
+https://leetcode.com/problems/remove-k-digits/description/?envType=daily-question&envId=2024-04-11
