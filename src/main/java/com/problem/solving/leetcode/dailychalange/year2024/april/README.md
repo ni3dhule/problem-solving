@@ -20,3 +20,5 @@ https://leetcode.com/problems/time-needed-to-buy-tickets/?envType=daily-question
 https://leetcode.com/problems/reveal-cards-in-increasing-order/description/?envType=daily-question&envId=2024-04-10
 11. 402. Remove K Digits
 https://leetcode.com/problems/remove-k-digits/description/?envType=daily-question&envId=2024-04-11
+12. 42. Trapping Rain Water
+https://leetcode.com/problems/trapping-rain-water/description/?envType=daily-question&envId=2024-04-12
