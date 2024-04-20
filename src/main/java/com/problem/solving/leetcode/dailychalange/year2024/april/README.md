@@ -36,3 +36,5 @@ https://leetcode.com/problems/smallest-string-starting-from-leaf/?envType=daily-
 https://leetcode.com/problems/island-perimeter/description/?envType=daily-question&envId=2024-04-18
 19. 200. Number of Islands
 https://leetcode.com/problems/number-of-islands/description/?envType=daily-question&envId=2024-04-19
+20. 1992. Find All Groups of Farmland
+https://leetcode.com/problems/find-all-groups-of-farmland/description/?envType=daily-question&envId=2024-04-20
