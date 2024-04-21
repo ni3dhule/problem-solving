@@ -38,3 +38,5 @@ https://leetcode.com/problems/island-perimeter/description/?envType=daily-questi
 https://leetcode.com/problems/number-of-islands/description/?envType=daily-question&envId=2024-04-19
 20. 1992. Find All Groups of Farmland
 https://leetcode.com/problems/find-all-groups-of-farmland/description/?envType=daily-question&envId=2024-04-20
+21. 1971. Find if Path Exists in Graph
+https://leetcode.com/problems/find-if-path-exists-in-graph/description/?envType=daily-question&envId=2024-04-21
