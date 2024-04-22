@@ -40,3 +40,5 @@ https://leetcode.com/problems/number-of-islands/description/?envType=daily-quest
 https://leetcode.com/problems/find-all-groups-of-farmland/description/?envType=daily-question&envId=2024-04-20
 21. 1971. Find if Path Exists in Graph
 https://leetcode.com/problems/find-if-path-exists-in-graph/description/?envType=daily-question&envId=2024-04-21
+22. 752. Open the Lock
+https://leetcode.com/problems/open-the-lock/description/?envType=daily-question&envId=2024-04-22
