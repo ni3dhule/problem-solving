@@ -42,3 +42,5 @@ https://leetcode.com/problems/find-all-groups-of-farmland/description/?envType=d
 https://leetcode.com/problems/find-if-path-exists-in-graph/description/?envType=daily-question&envId=2024-04-21
 22. 752. Open the Lock
 https://leetcode.com/problems/open-the-lock/description/?envType=daily-question&envId=2024-04-22
+23. 310. Minimum Height Trees
+https://leetcode.com/problems/minimum-height-trees/description/?envType=daily-question&envId=2024-04-23
