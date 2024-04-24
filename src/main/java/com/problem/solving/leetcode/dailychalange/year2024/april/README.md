@@ -44,3 +44,5 @@ https://leetcode.com/problems/find-if-path-exists-in-graph/description/?envType=
 https://leetcode.com/problems/open-the-lock/description/?envType=daily-question&envId=2024-04-22
 23. 310. Minimum Height Trees
 https://leetcode.com/problems/minimum-height-trees/description/?envType=daily-question&envId=2024-04-23
+24. 1137. N-th Tribonacci Number
+https://leetcode.com/problems/n-th-tribonacci-number/description/?envType=daily-question&envId=2024-04-24
