@@ -50,3 +50,5 @@ https://leetcode.com/problems/n-th-tribonacci-number/description/?envType=daily-
 https://leetcode.com/problems/longest-ideal-subsequence/description/?envType=daily-question&envId=2024-04-25
 26. 1289. Minimum Falling Path Sum II
 https://leetcode.com/problems/minimum-falling-path-sum-ii/description/?envType=daily-question&envId=2024-04-26
+27. 514. Freedom Trail
+https://leetcode.com/problems/freedom-trail/description/?envType=daily-question&envId=2024-04-27
