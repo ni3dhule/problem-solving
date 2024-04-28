@@ -52,3 +52,5 @@ https://leetcode.com/problems/longest-ideal-subsequence/description/?envType=dai
 https://leetcode.com/problems/minimum-falling-path-sum-ii/description/?envType=daily-question&envId=2024-04-26
 27. 514. Freedom Trail
 https://leetcode.com/problems/freedom-trail/description/?envType=daily-question&envId=2024-04-27
+28. 834. Sum of Distances in Tree
+https://leetcode.com/problems/sum-of-distances-in-tree/description/?envType=daily-question&envId=2024-04-28
