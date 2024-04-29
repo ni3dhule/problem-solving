@@ -2,7 +2,7 @@ package com.problem.solving.leetcode.dailychalange.year2024.april;
 
 public class MinimumOperationsForXOR {
     private MinimumOperationsForXOR(){}
-    public int minOperations(int[] nums, int k) {
+    public static int minOperations(int[] nums, int k) {
         int finalXor = 0;
         // XOR of all integers in the array.
         for (int n : nums) {
