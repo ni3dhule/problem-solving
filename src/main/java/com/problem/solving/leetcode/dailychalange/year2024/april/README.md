@@ -54,3 +54,5 @@ https://leetcode.com/problems/minimum-falling-path-sum-ii/description/?envType=d
 https://leetcode.com/problems/freedom-trail/description/?envType=daily-question&envId=2024-04-27
 28. 834. Sum of Distances in Tree
 https://leetcode.com/problems/sum-of-distances-in-tree/description/?envType=daily-question&envId=2024-04-28
+29. 2997. Minimum Number of Operations to Make Array XOR Equal to K
+https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/?envType=daily-question&envId=2024-04-29
