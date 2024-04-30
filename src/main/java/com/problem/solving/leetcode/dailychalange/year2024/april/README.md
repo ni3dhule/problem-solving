@@ -56,3 +56,5 @@ https://leetcode.com/problems/freedom-trail/description/?envType=daily-question&
 https://leetcode.com/problems/sum-of-distances-in-tree/description/?envType=daily-question&envId=2024-04-28
 29. 2997. Minimum Number of Operations to Make Array XOR Equal to K
 https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/?envType=daily-question&envId=2024-04-29
+30. 1915. Number of Wonderful Substrings
+https://leetcode.com/problems/number-of-wonderful-substrings/?envType=daily-question&envId=2024-04-30
