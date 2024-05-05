@@ -6,3 +6,5 @@ https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-nega
 https://leetcode.com/problems/compare-version-numbers/description/?envType=daily-question&envId=2024-05-03
 4. 881. Boats to Save People
 https://leetcode.com/problems/boats-to-save-people/description/?envType=daily-question&envId=2024-05-04
+5. 237. Delete Node in a Linked List
+https://leetcode.com/problems/delete-node-in-a-linked-list/description/?envType=daily-question&envId=2024-05-05
