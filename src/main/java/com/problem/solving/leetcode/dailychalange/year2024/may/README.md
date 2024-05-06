@@ -8,3 +8,5 @@ https://leetcode.com/problems/compare-version-numbers/description/?envType=daily
 https://leetcode.com/problems/boats-to-save-people/description/?envType=daily-question&envId=2024-05-04
 5. 237. Delete Node in a Linked List
 https://leetcode.com/problems/delete-node-in-a-linked-list/description/?envType=daily-question&envId=2024-05-05
+6. 2487. Remove Nodes From Linked List
+https://leetcode.com/problems/remove-nodes-from-linked-list/description/?envType=daily-question&envId=2024-05-06
