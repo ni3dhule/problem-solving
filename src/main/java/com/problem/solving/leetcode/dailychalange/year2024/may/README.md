@@ -10,3 +10,5 @@ https://leetcode.com/problems/boats-to-save-people/description/?envType=daily-qu
 https://leetcode.com/problems/delete-node-in-a-linked-list/description/?envType=daily-question&envId=2024-05-05
 6. 2487. Remove Nodes From Linked List
 https://leetcode.com/problems/remove-nodes-from-linked-list/description/?envType=daily-question&envId=2024-05-06
+7. 2816. Double a Number Represented as a Linked List
+https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/?envType=daily-question&envId=2024-05-07
