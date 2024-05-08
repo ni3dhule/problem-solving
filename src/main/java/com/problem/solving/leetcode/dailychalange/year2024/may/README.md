@@ -12,3 +12,5 @@ https://leetcode.com/problems/delete-node-in-a-linked-list/description/?envType=
 https://leetcode.com/problems/remove-nodes-from-linked-list/description/?envType=daily-question&envId=2024-05-06
 7. 2816. Double a Number Represented as a Linked List
 https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/?envType=daily-question&envId=2024-05-07
+8. 506. Relative Ranks
+https://leetcode.com/problems/relative-ranks/description/?envType=daily-question&envId=2024-05-08
