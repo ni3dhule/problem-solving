@@ -14,3 +14,5 @@ https://leetcode.com/problems/remove-nodes-from-linked-list/description/?envType
 https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/?envType=daily-question&envId=2024-05-07
 8. 506. Relative Ranks
 https://leetcode.com/problems/relative-ranks/description/?envType=daily-question&envId=2024-05-08
+9. 3075. Maximize Happiness of Selected Children     
+https://leetcode.com/problems/maximize-happiness-of-selected-children/description/?envType=daily-question&envId=2024-05-09
