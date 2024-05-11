@@ -18,3 +18,5 @@ https://leetcode.com/problems/relative-ranks/description/?envType=daily-question
 https://leetcode.com/problems/maximize-happiness-of-selected-children/description/?envType=daily-question&envId=2024-05-09
 10. 786. K-th Smallest Prime Fraction
 https://leetcode.com/problems/k-th-smallest-prime-fraction/description/?envType=daily-question&envId=2024-05-10
+11. 857. Minimum Cost to Hire K Workers
+https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/?envType=daily-question&envId=2024-05-11
