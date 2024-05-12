@@ -20,3 +20,5 @@ https://leetcode.com/problems/maximize-happiness-of-selected-children/descriptio
 https://leetcode.com/problems/k-th-smallest-prime-fraction/description/?envType=daily-question&envId=2024-05-10
 11. 857. Minimum Cost to Hire K Workers
 https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/?envType=daily-question&envId=2024-05-11
+12. 2373. Largest Local Values in a Matrix
+https://leetcode.com/problems/largest-local-values-in-a-matrix/description/?envType=daily-question&envId=2024-05-12
