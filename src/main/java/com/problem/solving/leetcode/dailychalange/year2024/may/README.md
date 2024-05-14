@@ -24,3 +24,5 @@ https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/?envTyp
 https://leetcode.com/problems/largest-local-values-in-a-matrix/description/?envType=daily-question&envId=2024-05-12
 13. 861. Score After Flipping Matrix
 https://leetcode.com/problems/score-after-flipping-matrix/description/?envType=daily-question&envId=2024-05-13
+14. 1219. Path with Maximum Gold
+https://leetcode.com/problems/path-with-maximum-gold/description/?envType=daily-question&envId=2024-05-14
