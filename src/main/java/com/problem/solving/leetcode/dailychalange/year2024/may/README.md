@@ -32,3 +32,5 @@ https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/?envTyp
 https://leetcode.com/problems/evaluate-boolean-binary-tree/description/?envType=daily-question&envId=2024-05-16
 17. 1325. Delete Leaves With a Given Value
 https://leetcode.com/problems/delete-leaves-with-a-given-value/description/?envType=daily-question&envId=2024-05-17
+18. 979. Distribute Coins in Binary Tree
+https://leetcode.com/problems/distribute-coins-in-binary-tree/?envType=daily-question&envId=2024-05-18
