@@ -30,3 +30,5 @@ https://leetcode.com/problems/path-with-maximum-gold/description/?envType=daily-
 https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/?envType=daily-question&envId=2024-05-15
 16. 2331. Evaluate Boolean Binary Tree
 https://leetcode.com/problems/evaluate-boolean-binary-tree/description/?envType=daily-question&envId=2024-05-16
+17. 1325. Delete Leaves With a Given Value
+https://leetcode.com/problems/delete-leaves-with-a-given-value/description/?envType=daily-question&envId=2024-05-17
