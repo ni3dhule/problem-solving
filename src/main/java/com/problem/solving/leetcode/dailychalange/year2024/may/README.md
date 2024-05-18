@@ -34,3 +34,5 @@ https://leetcode.com/problems/evaluate-boolean-binary-tree/description/?envType=
 https://leetcode.com/problems/delete-leaves-with-a-given-value/description/?envType=daily-question&envId=2024-05-17
 18. 979. Distribute Coins in Binary Tree
 https://leetcode.com/problems/distribute-coins-in-binary-tree/?envType=daily-question&envId=2024-05-18
+19. 3068. Find the Maximum Sum of Node Values
+20. https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?envType=daily-question&envId=2024-05-19
