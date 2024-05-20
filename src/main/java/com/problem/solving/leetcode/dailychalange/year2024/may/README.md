@@ -35,4 +35,6 @@ https://leetcode.com/problems/delete-leaves-with-a-given-value/description/?envT
 18. 979. Distribute Coins in Binary Tree
 https://leetcode.com/problems/distribute-coins-in-binary-tree/?envType=daily-question&envId=2024-05-18
 19. 3068. Find the Maximum Sum of Node Values
-20. https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?envType=daily-question&envId=2024-05-19
+https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?envType=daily-question&envId=2024-05-19
+20. 1863. Sum of All Subset XOR Totals
+https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/?envType=daily-question&envId=2024-05-20
