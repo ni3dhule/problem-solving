@@ -38,3 +38,5 @@ https://leetcode.com/problems/distribute-coins-in-binary-tree/?envType=daily-que
 https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?envType=daily-question&envId=2024-05-19
 20. 1863. Sum of All Subset XOR Totals
 https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/?envType=daily-question&envId=2024-05-20
+21. 78. Subsets
+https://leetcode.com/problems/subsets/description/?envType=daily-question&envId=2024-05-21
