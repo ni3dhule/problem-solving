@@ -40,3 +40,5 @@ https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?e
 https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/?envType=daily-question&envId=2024-05-20
 21. 78. Subsets
 https://leetcode.com/problems/subsets/description/?envType=daily-question&envId=2024-05-21
+22. 131. Palindrome Partitioning
+https://leetcode.com/problems/palindrome-partitioning/description/?envType=daily-question&envId=2024-05-22
