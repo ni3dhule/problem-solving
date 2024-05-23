@@ -42,3 +42,5 @@ https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/?envType=
 https://leetcode.com/problems/subsets/description/?envType=daily-question&envId=2024-05-21
 22. 131. Palindrome Partitioning
 https://leetcode.com/problems/palindrome-partitioning/description/?envType=daily-question&envId=2024-05-22
+23. 2597. The Number of Beautiful Subsets
+https://leetcode.com/problems/the-number-of-beautiful-subsets/?envType=daily-question&envId=2024-05-23
