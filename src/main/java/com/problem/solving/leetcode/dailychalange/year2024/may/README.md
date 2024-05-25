@@ -44,3 +44,5 @@ https://leetcode.com/problems/subsets/description/?envType=daily-question&envId=
 https://leetcode.com/problems/palindrome-partitioning/description/?envType=daily-question&envId=2024-05-22
 23. 2597. The Number of Beautiful Subsets
 https://leetcode.com/problems/the-number-of-beautiful-subsets/?envType=daily-question&envId=2024-05-23
+25. 140. word Break 2
+https://leetcode.com/problems/word-break-ii/?envType=daily-question&envId=2024-05-25
