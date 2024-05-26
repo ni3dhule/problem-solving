@@ -48,3 +48,5 @@ https://leetcode.com/problems/the-number-of-beautiful-subsets/?envType=daily-que
 https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/?envType=daily-question&envId=2024-05-24
 25. 140. word Break 2
 https://leetcode.com/problems/word-break-ii/?envType=daily-question&envId=2024-05-25
+26. 552. Student Attendance Record II
+https://leetcode.com/problems/student-attendance-record-ii/description/?envType=daily-question&envId=2024-05-26
