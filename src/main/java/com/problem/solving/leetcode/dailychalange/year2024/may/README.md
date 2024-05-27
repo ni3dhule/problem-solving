@@ -50,3 +50,5 @@ https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/
 https://leetcode.com/problems/word-break-ii/?envType=daily-question&envId=2024-05-25
 26. 552. Student Attendance Record II
 https://leetcode.com/problems/student-attendance-record-ii/description/?envType=daily-question&envId=2024-05-26
+27. 1608. Special Array With X Elements Greater Than or Equal X
+https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/?envType=daily-question&envId=2024-05-27
