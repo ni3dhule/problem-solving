@@ -54,3 +54,5 @@ https://leetcode.com/problems/student-attendance-record-ii/description/?envType=
 https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/?envType=daily-question&envId=2024-05-27
 28. 1208. Get Equal Substrings Within Budget
 https://leetcode.com/problems/get-equal-substrings-within-budget/description/?envType=daily-question&envId=2024-05-28
+29. 1404. Number of Steps to Reduce a Number in Binary Representation to One
+https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/?envType=daily-question&envId=2024-05-29
