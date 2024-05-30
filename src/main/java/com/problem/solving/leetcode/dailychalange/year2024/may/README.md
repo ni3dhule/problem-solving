@@ -56,3 +56,5 @@ https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equa
 https://leetcode.com/problems/get-equal-substrings-within-budget/description/?envType=daily-question&envId=2024-05-28
 29. 1404. Number of Steps to Reduce a Number in Binary Representation to One
 https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/?envType=daily-question&envId=2024-05-29
+30. 1442. Count Triplets That Can Form Two Arrays of Equal XOR
+https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/?envType=daily-question&envId=2024-05-30

@@ -1,0 +1,25 @@
+package com.problem.solving.leetcode.dailychalange.year2024.may;
+
+public class CountTripletsXOR {
+    private CountTripletsXOR(){}
+    public static int countTriplets(int[] arr) {
+        int count = 0;
+        int n = arr.length;
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                int a = 0;
+                for (int k = i; k < j; k++) {
+                    a ^= arr[k];
+                }
+                int b = 0;
+                for (int k = j; k < n; k++) {
+                    b ^= arr[k];
+                    if (a == b) {
+                        count++;
+                    }
+                }
+            }
+        }
+        return count;
+    }
+}
