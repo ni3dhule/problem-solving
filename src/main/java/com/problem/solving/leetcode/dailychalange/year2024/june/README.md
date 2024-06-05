@@ -6,3 +6,5 @@ https://leetcode.com/problems/reverse-string/description/?envType=daily-question
 https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/?envType=daily-question&envId=2024-06-03
 4. 409. Longest Palindrome
 https://leetcode.com/problems/longest-palindrome/description/?envType=daily-question&envId=2024-06-04
+5. 1002. Find Common Characters
+6. https://leetcode.com/problems/find-common-characters/description/?envType=daily-question&envId=2024-06-05
