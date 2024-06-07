@@ -10,3 +10,5 @@ https://leetcode.com/problems/longest-palindrome/description/?envType=daily-ques
 https://leetcode.com/problems/find-common-characters/description/?envType=daily-question&envId=2024-06-05
 6. 846. Hand of Straights
 https://leetcode.com/problems/hand-of-straights/description/?envType=daily-question&envId=2024-06-06
+7. 648. Replace Words
+https://leetcode.com/problems/replace-words/description/?envType=daily-question&envId=2024-06-07
