@@ -12,3 +12,5 @@ https://leetcode.com/problems/find-common-characters/description/?envType=daily-
 https://leetcode.com/problems/hand-of-straights/description/?envType=daily-question&envId=2024-06-06
 7. 648. Replace Words
 https://leetcode.com/problems/replace-words/description/?envType=daily-question&envId=2024-06-07
+8. 523. Continuous Subarray Sum
+https://leetcode.com/problems/continuous-subarray-sum/description/?envType=daily-question&envId=2024-06-08
