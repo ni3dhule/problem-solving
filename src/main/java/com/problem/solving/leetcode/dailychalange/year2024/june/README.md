@@ -14,3 +14,5 @@ https://leetcode.com/problems/hand-of-straights/description/?envType=daily-quest
 https://leetcode.com/problems/replace-words/description/?envType=daily-question&envId=2024-06-07
 8. 523. Continuous Subarray Sum
 https://leetcode.com/problems/continuous-subarray-sum/description/?envType=daily-question&envId=2024-06-08
+9. 974. Subarray Sums Divisible by K
+https://leetcode.com/problems/subarray-sums-divisible-by-k/description/?envType=daily-question&envId=2024-06-09
