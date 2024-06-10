@@ -16,3 +16,5 @@ https://leetcode.com/problems/replace-words/description/?envType=daily-question&
 https://leetcode.com/problems/continuous-subarray-sum/description/?envType=daily-question&envId=2024-06-08
 9. 974. Subarray Sums Divisible by K
 https://leetcode.com/problems/subarray-sums-divisible-by-k/description/?envType=daily-question&envId=2024-06-09
+10. 1051. Height Checker
+https://leetcode.com/problems/height-checker/description/?envType=daily-question&envId=2024-06-10
