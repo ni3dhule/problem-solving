@@ -20,3 +20,5 @@ https://leetcode.com/problems/subarray-sums-divisible-by-k/description/?envType=
 https://leetcode.com/problems/height-checker/description/?envType=daily-question&envId=2024-06-10
 11. 1122. Relative Sort Array
 https://leetcode.com/problems/relative-sort-array/description/?envType=daily-question&envId=2024-06-11
+12. 75. Sort Colors
+https://leetcode.com/problems/sort-colors/description/?envType=daily-question&envId=2024-06-12
