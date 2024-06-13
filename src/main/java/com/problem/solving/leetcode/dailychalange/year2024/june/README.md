@@ -22,3 +22,5 @@ https://leetcode.com/problems/height-checker/description/?envType=daily-question
 https://leetcode.com/problems/relative-sort-array/description/?envType=daily-question&envId=2024-06-11
 12. 75. Sort Colors
 https://leetcode.com/problems/sort-colors/description/?envType=daily-question&envId=2024-06-12
+13. 2037. Minimum Number of Moves to Seat Everyone
+https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/?envType=daily-question&envId=2024-06-13
