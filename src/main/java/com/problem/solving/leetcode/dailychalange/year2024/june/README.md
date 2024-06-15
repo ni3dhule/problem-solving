@@ -26,3 +26,5 @@ https://leetcode.com/problems/sort-colors/description/?envType=daily-question&en
 https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/?envType=daily-question&envId=2024-06-13
 14. 945. Minimum Increment to Make Array Unique
 https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/?envType=daily-question&envId=2024-06-14
+15. 502. IPO
+16. https://leetcode.com/problems/ipo/description/?envType=daily-question&envId=2024-06-15
