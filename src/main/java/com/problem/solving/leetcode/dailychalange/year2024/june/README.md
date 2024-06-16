@@ -28,3 +28,5 @@ https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/descripti
 https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/?envType=daily-question&envId=2024-06-14
 15. 502. IPO
 https://leetcode.com/problems/ipo/description/?envType=daily-question&envId=2024-06-15
+16. 330. Patching Array
+https://leetcode.com/problems/patching-array/description/?envType=daily-question&envId=2024-06-16
