@@ -30,3 +30,5 @@ https://leetcode.com/problems/minimum-increment-to-make-array-unique/description
 https://leetcode.com/problems/ipo/description/?envType=daily-question&envId=2024-06-15
 16. 330. Patching Array
 https://leetcode.com/problems/patching-array/description/?envType=daily-question&envId=2024-06-16
+17. 633. Sum of Square Numbers
+https://leetcode.com/problems/sum-of-square-numbers/description/?envType=daily-question&envId=2024-06-17
