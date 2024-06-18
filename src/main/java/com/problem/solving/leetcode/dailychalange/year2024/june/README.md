@@ -32,3 +32,5 @@ https://leetcode.com/problems/ipo/description/?envType=daily-question&envId=2024
 https://leetcode.com/problems/patching-array/description/?envType=daily-question&envId=2024-06-16
 17. 633. Sum of Square Numbers
 https://leetcode.com/problems/sum-of-square-numbers/description/?envType=daily-question&envId=2024-06-17
+18. 826. Most Profit Assigning Work
+https://leetcode.com/problems/most-profit-assigning-work/description/?envType=daily-question&envId=2024-06-18
