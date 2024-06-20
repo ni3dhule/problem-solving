@@ -36,3 +36,5 @@ https://leetcode.com/problems/sum-of-square-numbers/description/?envType=daily-q
 https://leetcode.com/problems/most-profit-assigning-work/description/?envType=daily-question&envId=2024-06-18
 19. 1482. Minimum Number of Days to Make m Bouquets
 https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/?envType=daily-question&envId=2024-06-19
+20. 1552. Magnetic Force Between Two Balls
+https://leetcode.com/problems/magnetic-force-between-two-balls/description/?envType=daily-question&envId=2024-06-20
