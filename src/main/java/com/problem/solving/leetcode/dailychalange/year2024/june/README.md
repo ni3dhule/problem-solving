@@ -38,3 +38,5 @@ https://leetcode.com/problems/most-profit-assigning-work/description/?envType=da
 https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/?envType=daily-question&envId=2024-06-19
 20. 1552. Magnetic Force Between Two Balls
 https://leetcode.com/problems/magnetic-force-between-two-balls/description/?envType=daily-question&envId=2024-06-20
+21. 1052. Grumpy Bookstore Owner
+https://leetcode.com/problems/grumpy-bookstore-owner/description/?envType=daily-question&envId=2024-06-21
