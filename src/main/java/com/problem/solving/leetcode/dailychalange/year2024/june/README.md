@@ -40,3 +40,5 @@ https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/?envType
 https://leetcode.com/problems/magnetic-force-between-two-balls/description/?envType=daily-question&envId=2024-06-20
 21. 1052. Grumpy Bookstore Owner
 https://leetcode.com/problems/grumpy-bookstore-owner/description/?envType=daily-question&envId=2024-06-21
+22. 1248. Count Number of Nice Subarrays
+https://leetcode.com/problems/count-number-of-nice-subarrays/description/?envType=daily-question&envId=2024-06-22
