@@ -42,3 +42,5 @@ https://leetcode.com/problems/magnetic-force-between-two-balls/description/?envT
 https://leetcode.com/problems/grumpy-bookstore-owner/description/?envType=daily-question&envId=2024-06-21
 22. 1248. Count Number of Nice Subarrays
 https://leetcode.com/problems/count-number-of-nice-subarrays/description/?envType=daily-question&envId=2024-06-22
+23. 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/?envType=daily-question&envId=2024-06-23
