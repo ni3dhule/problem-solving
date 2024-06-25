@@ -46,3 +46,5 @@ https://leetcode.com/problems/count-number-of-nice-subarrays/description/?envTyp
 https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/?envType=daily-question&envId=2024-06-23
 24. 995. Minimum Number of K Consecutive Bit Flips
 https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/?envType=daily-question&envId=2024-06-24
+25. 1038. Binary Search Tree to Greater Sum Tree
+https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/?envType=daily-question&envId=2024-06-25
