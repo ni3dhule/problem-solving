@@ -50,3 +50,5 @@ https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/?envType
 https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/?envType=daily-question&envId=2024-06-25
 26. 1382. Balance a Binary Search Tree
 https://leetcode.com/problems/balance-a-binary-search-tree/description/?envType=daily-question&envId=2024-06-26
+27. 1791. Find Center of Star Graph
+https://leetcode.com/problems/find-center-of-star-graph/description/?envType=daily-question&envId=2024-06-27
