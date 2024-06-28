@@ -52,3 +52,5 @@ https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/?envType=da
 https://leetcode.com/problems/balance-a-binary-search-tree/description/?envType=daily-question&envId=2024-06-26
 27. 1791. Find Center of Star Graph
 https://leetcode.com/problems/find-center-of-star-graph/description/?envType=daily-question&envId=2024-06-27
+28. 2285. Maximum Total Importance of Roads
+https://leetcode.com/problems/maximum-total-importance-of-roads/description/?envType=daily-question&envId=2024-06-28
