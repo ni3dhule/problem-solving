@@ -56,3 +56,5 @@ https://leetcode.com/problems/find-center-of-star-graph/description/?envType=dai
 https://leetcode.com/problems/maximum-total-importance-of-roads/description/?envType=daily-question&envId=2024-06-28
 29. 2192. All Ancestors of a Node in a Directed Acyclic Graph
 https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/?envType=daily-question&envId=2024-06-29
+30. 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
+https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/?envType=daily-question&envId=2024-06-30
