@@ -6,3 +6,5 @@ https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType
 https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/?envType=daily-question&envId=2024-07-03
 4. 2181. Merge Nodes in Between Zeros
 https://leetcode.com/problems/merge-nodes-in-between-zeros/description/?envType=daily-question&envId=2024-07-04
+5. 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points
+https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/?envType=daily-question&envId=2024-07-05
