@@ -8,3 +8,5 @@ https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-va
 https://leetcode.com/problems/merge-nodes-in-between-zeros/description/?envType=daily-question&envId=2024-07-04
 5. 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points
 https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/?envType=daily-question&envId=2024-07-05
+6. 2582. Pass the Pillow
+https://leetcode.com/problems/pass-the-pillow/description/?envType=daily-question&envId=2024-07-06
