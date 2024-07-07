@@ -10,3 +10,5 @@ https://leetcode.com/problems/merge-nodes-in-between-zeros/description/?envType=
 https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/?envType=daily-question&envId=2024-07-05
 6. 2582. Pass the Pillow
 https://leetcode.com/problems/pass-the-pillow/description/?envType=daily-question&envId=2024-07-06
+7. 1518. Water Bottles
+https://leetcode.com/problems/water-bottles/description/?envType=daily-question&envId=2024-07-07
