@@ -12,3 +12,5 @@ https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-betwe
 https://leetcode.com/problems/pass-the-pillow/description/?envType=daily-question&envId=2024-07-06
 7. 1518. Water Bottles
 https://leetcode.com/problems/water-bottles/description/?envType=daily-question&envId=2024-07-07
+8. 1823. Find the Winner of the Circular Game
+https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=daily-question&envId=2024-07-08
