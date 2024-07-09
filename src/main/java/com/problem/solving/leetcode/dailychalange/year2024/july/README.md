@@ -14,3 +14,5 @@ https://leetcode.com/problems/pass-the-pillow/description/?envType=daily-questio
 https://leetcode.com/problems/water-bottles/description/?envType=daily-question&envId=2024-07-07
 8. 1823. Find the Winner of the Circular Game
 https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=daily-question&envId=2024-07-08
+9. 1701. Average Waiting Time
+https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09
