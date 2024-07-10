@@ -16,3 +16,5 @@ https://leetcode.com/problems/water-bottles/description/?envType=daily-question&
 https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=daily-question&envId=2024-07-08
 9. 1701. Average Waiting Time
 https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09
+10. 1598. Crawler Log Folder
+https://leetcode.com/problems/crawler-log-folder/description/?envType=daily-question&envId=2024-07-10
