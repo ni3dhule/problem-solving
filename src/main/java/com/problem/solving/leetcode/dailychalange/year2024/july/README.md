@@ -18,3 +18,5 @@ https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?
 https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09
 10. 1598. Crawler Log Folder
 https://leetcode.com/problems/crawler-log-folder/description/?envType=daily-question&envId=2024-07-10
+11. 1190. Reverse Substrings Between Each Pair of Parentheses
+https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/?envType=daily-question&envId=2024-07-11
