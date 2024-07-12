@@ -20,3 +20,5 @@ https://leetcode.com/problems/average-waiting-time/description/?envType=daily-qu
 https://leetcode.com/problems/crawler-log-folder/description/?envType=daily-question&envId=2024-07-10
 11. 1190. Reverse Substrings Between Each Pair of Parentheses
 https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/?envType=daily-question&envId=2024-07-11
+12. 1717. Maximum Score From Removing Substrings
+https://leetcode.com/problems/maximum-score-from-removing-substrings/description/?envType=daily-question&envId=2024-07-12
