@@ -26,3 +26,5 @@ https://leetcode.com/problems/maximum-score-from-removing-substrings/description
 https://leetcode.com/problems/robot-collisions/description/?envType=daily-question&envId=2024-07-13
 14. 726. Number of Atoms
 https://leetcode.com/problems/number-of-atoms/description/?envType=daily-question&envId=2024-07-14
+15. 2196. Create Binary Tree From Descriptions
+https://leetcode.com/problems/create-binary-tree-from-descriptions/description/?envType=daily-question&envId=2024-07-15
