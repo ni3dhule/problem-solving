@@ -30,3 +30,5 @@ https://leetcode.com/problems/number-of-atoms/description/?envType=daily-questio
 https://leetcode.com/problems/create-binary-tree-from-descriptions/description/?envType=daily-question&envId=2024-07-15
 16. 2096. Step-By-Step Directions From a Binary Tree Node to Another
 https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/?envType=daily-question&envId=2024-07-16
+17. 1110. Delete Nodes And Return Forest
+https://leetcode.com/problems/delete-nodes-and-return-forest/description/?envType=daily-question&envId=2024-07-17
