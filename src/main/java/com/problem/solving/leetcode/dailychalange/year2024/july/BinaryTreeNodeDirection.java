@@ -46,7 +46,7 @@ public class BinaryTreeNodeDirection {
 
         Set<TreeNode> visited = new HashSet<>();
         q.offer(startNode);
-        Map<TreeNode, Pair<TreeNode, String>> trackedPath = new HashMap<>();
+        //Map<TreeNode, Pair<TreeNode, String>> trackedPath = new HashMap<>();
         TreeNode destinationNode = null;
 
         while (!q.isEmpty()) {
@@ -61,17 +61,17 @@ public class BinaryTreeNodeDirection {
             if (nodesParents.containsKey(curNode.val) && !visited.contains(nodesParents.get(curNode.val))) {
                 TreeNode parent = nodesParents.get(curNode.val);
                 q.offer(parent);
-                trackedPath.put(parent, new Pair<>(curNode, "U"));
+                //trackedPath.put(parent, new Pair<>(curNode, "U"));
             }
 
             if (curNode.left != null && !visited.contains(curNode.left)) {
                 q.offer(curNode.left);
-                trackedPath.put(curNode.left, new Pair<>(curNode, "L"));
+                //trackedPath.put(curNode.left, new Pair<>(curNode, "L"));
             }
 
             if (curNode.right != null && !visited.contains(curNode.right)) {
                 q.offer(curNode.right);
-                trackedPath.put(curNode.right, new Pair<>(curNode, "R"));
+                //trackedPath.put(curNode.right, new Pair<>(curNode, "R"));
             }
         }
 
@@ -79,9 +79,9 @@ public class BinaryTreeNodeDirection {
         TreeNode curNode = destinationNode;
 
         while (curNode != startNode) {
-            Pair<TreeNode, String> sourceAndDirection = trackedPath.get(curNode);
-            resultPath.add(sourceAndDirection.getValue());
-            curNode = sourceAndDirection.getKey();
+            //Pair<TreeNode, String> sourceAndDirection = trackedPath.get(curNode);
+            //resultPath.add(sourceAndDirection.getValue());
+            //curNode = sourceAndDirection.getKey();
         }
 
         Collections.reverse(resultPath);

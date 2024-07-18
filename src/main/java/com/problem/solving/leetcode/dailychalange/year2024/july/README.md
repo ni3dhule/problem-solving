@@ -32,3 +32,5 @@ https://leetcode.com/problems/create-binary-tree-from-descriptions/description/?
 https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/?envType=daily-question&envId=2024-07-16
 17. 1110. Delete Nodes And Return Forest
 https://leetcode.com/problems/delete-nodes-and-return-forest/description/?envType=daily-question&envId=2024-07-17
+18. 1530. Number of Good Leaf Nodes Pairs
+https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/?envType=daily-question&envId=2024-07-18
