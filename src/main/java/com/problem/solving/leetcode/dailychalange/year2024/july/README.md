@@ -36,3 +36,5 @@ https://leetcode.com/problems/delete-nodes-and-return-forest/description/?envTyp
 https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/?envType=daily-question&envId=2024-07-18
 19. 1380. Lucky Numbers in a Matrix
 https://leetcode.com/problems/lucky-numbers-in-a-matrix/?envType=daily-question&envId=2024-07-19
+20. 1605. Find Valid Matrix Given Row and Column Sums
+https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/?envType=daily-question&envId=2024-07-20
