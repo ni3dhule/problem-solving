@@ -38,3 +38,5 @@ https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/?envTy
 https://leetcode.com/problems/lucky-numbers-in-a-matrix/?envType=daily-question&envId=2024-07-19
 20. 1605. Find Valid Matrix Given Row and Column Sums
 https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/?envType=daily-question&envId=2024-07-20
+21. 2392. Build a Matrix With Conditions
+https://leetcode.com/problems/build-a-matrix-with-conditions/description/?envType=daily-question&envId=2024-07-21
