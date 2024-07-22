@@ -40,3 +40,5 @@ https://leetcode.com/problems/lucky-numbers-in-a-matrix/?envType=daily-question&
 https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/?envType=daily-question&envId=2024-07-20
 21. 2392. Build a Matrix With Conditions
 https://leetcode.com/problems/build-a-matrix-with-conditions/description/?envType=daily-question&envId=2024-07-21
+22. 2418. Sort the People
+https://leetcode.com/problems/sort-the-people/description/?envType=daily-question&envId=2024-07-22
