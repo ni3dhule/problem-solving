@@ -42,3 +42,5 @@ https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/descri
 https://leetcode.com/problems/build-a-matrix-with-conditions/description/?envType=daily-question&envId=2024-07-21
 22. 2418. Sort the People
 https://leetcode.com/problems/sort-the-people/description/?envType=daily-question&envId=2024-07-22
+23. 1636. Sort Array by Increasing Frequency
+https://leetcode.com/problems/sort-array-by-increasing-frequency/description/?envType=daily-question&envId=2024-07-23
