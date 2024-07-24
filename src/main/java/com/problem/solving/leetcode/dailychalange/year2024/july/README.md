@@ -44,3 +44,5 @@ https://leetcode.com/problems/build-a-matrix-with-conditions/description/?envTyp
 https://leetcode.com/problems/sort-the-people/description/?envType=daily-question&envId=2024-07-22
 23. 1636. Sort Array by Increasing Frequency
 https://leetcode.com/problems/sort-array-by-increasing-frequency/description/?envType=daily-question&envId=2024-07-23
+24. 2191. Sort the Jumbled Numbers
+https://leetcode.com/problems/sort-the-jumbled-numbers/description/?envType=daily-question&envId=2024-07-24
