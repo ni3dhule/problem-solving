@@ -46,3 +46,5 @@ https://leetcode.com/problems/sort-the-people/description/?envType=daily-questio
 https://leetcode.com/problems/sort-array-by-increasing-frequency/description/?envType=daily-question&envId=2024-07-23
 24. 2191. Sort the Jumbled Numbers
 https://leetcode.com/problems/sort-the-jumbled-numbers/description/?envType=daily-question&envId=2024-07-24
+25. 912. Sort an Array - Merge Sort
+https://leetcode.com/problems/sort-an-array/description/?envType=daily-question&envId=2024-07-25
