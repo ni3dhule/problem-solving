@@ -52,3 +52,5 @@ https://leetcode.com/problems/sort-an-array/description/?envType=daily-question&
 https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/?envType=daily-question&envId=2024-07-26
 27. 2976. Minimum Cost to Convert String I
 https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/?envType=daily-question&envId=2024-07-27
+28. 2045. Second Minimum Time to Reach Destination
+https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/?envType=daily-question&envId=2024-07-28
