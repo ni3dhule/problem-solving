@@ -42,7 +42,7 @@ https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/descri
 https://leetcode.com/problems/build-a-matrix-with-conditions/description/?envType=daily-question&envId=2024-07-21
 22. 2418. Sort the People
 https://leetcode.com/problems/sort-the-people/description/?envType=daily-question&envId=2024-07-22
-23. 1636. Sort Array by Increasing Frequency
+23. 1636. Sort Array by Increasing Frequency   
 https://leetcode.com/problems/sort-array-by-increasing-frequency/description/?envType=daily-question&envId=2024-07-23
 24. 2191. Sort the Jumbled Numbers
 https://leetcode.com/problems/sort-the-jumbled-numbers/description/?envType=daily-question&envId=2024-07-24
@@ -54,3 +54,5 @@ https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbor
 https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/?envType=daily-question&envId=2024-07-27
 28. 2045. Second Minimum Time to Reach Destination
 https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/?envType=daily-question&envId=2024-07-28
+29. 1395. Count Number of Teams
+https://leetcode.com/problems/count-number-of-teams/description/?envType=daily-question&envId=2024-07-29
