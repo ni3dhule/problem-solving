@@ -58,3 +58,5 @@ https://leetcode.com/problems/second-minimum-time-to-reach-destination/descripti
 https://leetcode.com/problems/count-number-of-teams/description/?envType=daily-question&envId=2024-07-29
 30. 1653. Minimum Deletions to Make String Balanced
 https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2024-07-30
+31. 1105. Filling Bookcase Shelves
+https://leetcode.com/problems/filling-bookcase-shelves/description/?envType=daily-question&envId=2024-07-31
