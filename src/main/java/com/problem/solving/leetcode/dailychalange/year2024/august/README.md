@@ -6,3 +6,5 @@ https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/descript
 https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/?envType=daily-question&envId=2024-08-03
 4. 1508. Range Sum of Sorted Subarray Sums
 https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/description/?envType=daily-question&envId=2024-08-04
+5. 2053. Kth Distinct String in an Array
+https://leetcode.com/problems/kth-distinct-string-in-an-array/description/?envType=daily-question&envId=2024-08-05
