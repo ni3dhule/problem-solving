@@ -14,3 +14,5 @@ https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/descripti
 https://leetcode.com/problems/integer-to-english-words/description/?envType=daily-question&envId=2024-08-07
 8. 885. Spiral Matrix III
 https://leetcode.com/problems/spiral-matrix-iii/description/?envType=daily-question&envId=2024-08-08
+9. 840. Magic Squares In Grid
+https://leetcode.com/problems/magic-squares-in-grid/description/?envType=daily-question&envId=2024-08-09
