@@ -16,3 +16,5 @@ https://leetcode.com/problems/integer-to-english-words/description/?envType=dail
 https://leetcode.com/problems/spiral-matrix-iii/description/?envType=daily-question&envId=2024-08-08
 9. 840. Magic Squares In Grid
 https://leetcode.com/problems/magic-squares-in-grid/description/?envType=daily-question&envId=2024-08-09
+10. 959. Regions Cut By Slashes
+https://leetcode.com/problems/regions-cut-by-slashes/description/?envType=daily-question&envId=2024-08-10
