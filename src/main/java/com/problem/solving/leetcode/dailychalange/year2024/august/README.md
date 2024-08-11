@@ -18,3 +18,5 @@ https://leetcode.com/problems/spiral-matrix-iii/description/?envType=daily-quest
 https://leetcode.com/problems/magic-squares-in-grid/description/?envType=daily-question&envId=2024-08-09
 10. 959. Regions Cut By Slashes
 https://leetcode.com/problems/regions-cut-by-slashes/description/?envType=daily-question&envId=2024-08-10
+11. 1568. Minimum Number of Days to Disconnect Island
+https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/?envType=daily-question&envId=2024-08-11
