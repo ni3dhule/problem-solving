@@ -20,3 +20,5 @@ https://leetcode.com/problems/magic-squares-in-grid/description/?envType=daily-q
 https://leetcode.com/problems/regions-cut-by-slashes/description/?envType=daily-question&envId=2024-08-10
 11. 1568. Minimum Number of Days to Disconnect Island
 https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/?envType=daily-question&envId=2024-08-11
+12. 703. Kth Largest Element in a Stream
+https://leetcode.com/problems/kth-largest-element-in-a-stream/description/?envType=daily-question&envId=2024-08-12
