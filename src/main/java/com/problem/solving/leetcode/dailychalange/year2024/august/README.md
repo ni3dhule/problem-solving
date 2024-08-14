@@ -24,3 +24,5 @@ https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/descri
 https://leetcode.com/problems/kth-largest-element-in-a-stream/description/?envType=daily-question&envId=2024-08-12
 13. 40. Combination Sum II
 https://leetcode.com/problems/combination-sum-ii/description/?envType=daily-question&envId=2024-08-13
+14. 719. Find K-th Smallest Pair Distance
+https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/?envType=daily-question&envId=2024-08-14
