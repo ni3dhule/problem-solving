@@ -26,3 +26,5 @@ https://leetcode.com/problems/kth-largest-element-in-a-stream/description/?envTy
 https://leetcode.com/problems/combination-sum-ii/description/?envType=daily-question&envId=2024-08-13
 14. 719. Find K-th Smallest Pair Distance
 https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/?envType=daily-question&envId=2024-08-14
+15. 860. Lemonade Change
+https://leetcode.com/problems/lemonade-change/description/?envType=daily-question&envId=2024-08-15
