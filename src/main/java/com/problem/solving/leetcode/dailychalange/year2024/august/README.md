@@ -30,3 +30,5 @@ https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/?envT
 https://leetcode.com/problems/lemonade-change/description/?envType=daily-question&envId=2024-08-15
 16. 624. Maximum Distance in Arrays
 https://leetcode.com/problems/maximum-distance-in-arrays/description/?envType=daily-question&envId=2024-08-16
+17. 1937. Maximum Number of Points with Cost
+https://leetcode.com/problems/maximum-number-of-points-with-cost/description/?envType=daily-question&envId=2024-08-17
