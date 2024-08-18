@@ -32,3 +32,5 @@ https://leetcode.com/problems/lemonade-change/description/?envType=daily-questio
 https://leetcode.com/problems/maximum-distance-in-arrays/description/?envType=daily-question&envId=2024-08-16
 17. 1937. Maximum Number of Points with Cost
 https://leetcode.com/problems/maximum-number-of-points-with-cost/description/?envType=daily-question&envId=2024-08-17
+18. 264. Ugly Number II
+https://leetcode.com/problems/ugly-number-ii/description/?envType=daily-question&envId=2024-08-18
