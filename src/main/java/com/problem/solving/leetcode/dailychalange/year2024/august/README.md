@@ -34,3 +34,5 @@ https://leetcode.com/problems/maximum-distance-in-arrays/description/?envType=da
 https://leetcode.com/problems/maximum-number-of-points-with-cost/description/?envType=daily-question&envId=2024-08-17
 18. 264. Ugly Number II
 https://leetcode.com/problems/ugly-number-ii/description/?envType=daily-question&envId=2024-08-18
+19. 650. 2 Keys Keyboard
+https://leetcode.com/problems/2-keys-keyboard/description/?envType=daily-question&envId=2024-08-19
