@@ -36,3 +36,5 @@ https://leetcode.com/problems/maximum-number-of-points-with-cost/description/?en
 https://leetcode.com/problems/ugly-number-ii/description/?envType=daily-question&envId=2024-08-18
 19. 650. 2 Keys Keyboard
 https://leetcode.com/problems/2-keys-keyboard/description/?envType=daily-question&envId=2024-08-19
+20. 1140. Stone Game II
+https://leetcode.com/problems/stone-game-ii/description/?envType=daily-question&envId=2024-08-20
