@@ -38,3 +38,5 @@ https://leetcode.com/problems/ugly-number-ii/description/?envType=daily-question
 https://leetcode.com/problems/2-keys-keyboard/description/?envType=daily-question&envId=2024-08-19
 20. 1140. Stone Game II
 https://leetcode.com/problems/stone-game-ii/description/?envType=daily-question&envId=2024-08-20
+21. 664. Strange Printer
+https://leetcode.com/problems/strange-printer/description/?envType=daily-question&envId=2024-08-21
