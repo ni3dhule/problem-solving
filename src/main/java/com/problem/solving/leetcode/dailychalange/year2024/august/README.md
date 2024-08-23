@@ -44,3 +44,5 @@ https://leetcode.com/problems/strange-printer/description/?envType=daily-questio
 https://leetcode.com/problems/number-complement/submissions/1364958319/?envType=daily-question&envId=2024-08-22
 23. 592. Fraction Addition and Subtraction
 https://leetcode.com/problems/fraction-addition-and-subtraction/description/?envType=daily-question&envId=2024-08-23
+24. 564. Find the Closest Palindrome
+https://leetcode.com/problems/find-the-closest-palindrome/description/?envType=daily-question&envId=2024-08-24
