@@ -48,3 +48,5 @@ https://leetcode.com/problems/fraction-addition-and-subtraction/description/?env
 https://leetcode.com/problems/find-the-closest-palindrome/description/?envType=daily-question&envId=2024-08-24
 25. 145. Binary Tree Postorder Traversal
 https://leetcode.com/problems/binary-tree-postorder-traversal/description/?envType=daily-question&envId=2024-08-25
+26. 590. N-ary Tree Postorder Traversal
+https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/?envType=daily-question&envId=2024-08-26
