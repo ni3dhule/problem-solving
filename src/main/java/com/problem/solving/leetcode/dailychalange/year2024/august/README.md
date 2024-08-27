@@ -50,3 +50,5 @@ https://leetcode.com/problems/find-the-closest-palindrome/description/?envType=d
 https://leetcode.com/problems/binary-tree-postorder-traversal/description/?envType=daily-question&envId=2024-08-25
 26. 590. N-ary Tree Postorder Traversal
 https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/?envType=daily-question&envId=2024-08-26
+27. 1514. Path with Maximum Probability
+https://leetcode.com/problems/path-with-maximum-probability/description/?envType=daily-question&envId=2024-08-27

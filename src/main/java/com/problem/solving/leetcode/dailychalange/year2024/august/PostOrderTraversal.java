@@ -22,10 +22,10 @@ public class PostOrderTraversal {
 
     private void dfs(Node root, List<Integer> res) {
         // Recursively call dfs for each child of the current node
-        for (Node child : root.children) {
-            dfs(child, res);
-        }
+        //for (Node child : root.children) {
+        //    dfs(child, res);
+        //}
         // Append the value of the current node to the result list
-        res.add(root.val);
+        //res.add(root.val);
     }
 }
