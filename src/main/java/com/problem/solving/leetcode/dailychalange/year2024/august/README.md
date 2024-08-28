@@ -52,3 +52,5 @@ https://leetcode.com/problems/binary-tree-postorder-traversal/description/?envTy
 https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/?envType=daily-question&envId=2024-08-26
 27. 1514. Path with Maximum Probability
 https://leetcode.com/problems/path-with-maximum-probability/description/?envType=daily-question&envId=2024-08-27
+28. 1905. Count Sub Islands
+https://leetcode.com/problems/count-sub-islands/description/?envType=daily-question&envId=2024-08-28
