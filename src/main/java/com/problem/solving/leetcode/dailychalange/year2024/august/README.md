@@ -54,3 +54,5 @@ https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/?envTyp
 https://leetcode.com/problems/path-with-maximum-probability/description/?envType=daily-question&envId=2024-08-27
 28. 1905. Count Sub Islands
 https://leetcode.com/problems/count-sub-islands/description/?envType=daily-question&envId=2024-08-28
+29. 947. Most Stones Removed with Same Row or Column
+https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/?envType=daily-question&envId=2024-08-29
