@@ -56,3 +56,5 @@ https://leetcode.com/problems/path-with-maximum-probability/description/?envType
 https://leetcode.com/problems/count-sub-islands/description/?envType=daily-question&envId=2024-08-28
 29. 947. Most Stones Removed with Same Row or Column
 https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/?envType=daily-question&envId=2024-08-29
+30. 2699. Modify Graph Edge Weights
+https://leetcode.com/problems/modify-graph-edge-weights/description/?envType=daily-question&envId=2024-08-30
