@@ -6,3 +6,5 @@ https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/descr
 https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/?envType=daily-question&envId=2024-09-03
 4. 874. Walking Robot Simulation
 https://leetcode.com/problems/walking-robot-simulation/description/?envType=daily-question&envId=2024-09-04
+5. 2028. Find Missing Observations
+https://leetcode.com/problems/find-missing-observations/description/?envType=daily-question&envId=2024-09-05
