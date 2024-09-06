@@ -8,3 +8,5 @@ https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/
 https://leetcode.com/problems/walking-robot-simulation/description/?envType=daily-question&envId=2024-09-04
 5. 2028. Find Missing Observations
 https://leetcode.com/problems/find-missing-observations/description/?envType=daily-question&envId=2024-09-05
+6. 3217. Delete Nodes From Linked List Present in Array
+https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/?envType=daily-question&envId=2024-09-06
