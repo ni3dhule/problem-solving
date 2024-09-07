@@ -10,3 +10,5 @@ https://leetcode.com/problems/walking-robot-simulation/description/?envType=dail
 https://leetcode.com/problems/find-missing-observations/description/?envType=daily-question&envId=2024-09-05
 6. 3217. Delete Nodes From Linked List Present in Array
 https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/?envType=daily-question&envId=2024-09-06
+7. 1367. Linked List in Binary Tree
+https://leetcode.com/problems/linked-list-in-binary-tree/description/?envType=daily-question&envId=2024-09-07
