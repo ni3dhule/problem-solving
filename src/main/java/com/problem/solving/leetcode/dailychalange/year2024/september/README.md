@@ -14,3 +14,5 @@ https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/des
 https://leetcode.com/problems/linked-list-in-binary-tree/description/?envType=daily-question&envId=2024-09-07
 8. 725. Split Linked List in Parts
 https://leetcode.com/problems/split-linked-list-in-parts/description/?envType=daily-question&envId=2024-09-08
+9. 2326. Spiral Matrix IV
+https://leetcode.com/problems/spiral-matrix-iv/description/?envType=daily-question&envId=2024-09-09
