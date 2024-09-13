@@ -22,3 +22,5 @@ https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/des
 https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/?envType=daily-question&envId=2024-09-11
 12. 1684. Count the Number of Consistent Strings
 https://leetcode.com/problems/count-the-number-of-consistent-strings/description/?envType=daily-question&envId=2024-09-12
+13. 1310. XOR Queries of a Subarray
+https://leetcode.com/problems/xor-queries-of-a-subarray/description/?envType=daily-question&envId=2024-09-13
