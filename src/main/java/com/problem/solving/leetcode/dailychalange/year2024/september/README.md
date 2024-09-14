@@ -24,3 +24,5 @@ https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/?e
 https://leetcode.com/problems/count-the-number-of-consistent-strings/description/?envType=daily-question&envId=2024-09-12
 13. 1310. XOR Queries of a Subarray
 https://leetcode.com/problems/xor-queries-of-a-subarray/description/?envType=daily-question&envId=2024-09-13
+14. 2419. Longest Subarray With Maximum Bitwise AND
+https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/?envType=daily-question&envId=2024-09-14
