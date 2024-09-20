@@ -36,3 +36,5 @@ https://leetcode.com/problems/uncommon-words-from-two-sentences/description/?env
 https://leetcode.com/problems/largest-number/description/?envType=daily-question&envId=2024-09-18
 19. 241. Different Ways to Add Parentheses
 https://leetcode.com/problems/different-ways-to-add-parentheses/description/?envType=daily-question&envId=2024-09-19
+20. 214. Shortest Palindrome
+https://leetcode.com/problems/shortest-palindrome/description/?envType=daily-question&envId=2024-09-20
