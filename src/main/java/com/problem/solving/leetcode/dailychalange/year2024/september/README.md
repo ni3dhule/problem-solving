@@ -38,3 +38,5 @@ https://leetcode.com/problems/largest-number/description/?envType=daily-question
 https://leetcode.com/problems/different-ways-to-add-parentheses/description/?envType=daily-question&envId=2024-09-19
 20. 214. Shortest Palindrome
 https://leetcode.com/problems/shortest-palindrome/description/?envType=daily-question&envId=2024-09-20
+21. 386. Lexicographical Numbers
+https://leetcode.com/problems/lexicographical-numbers/description/?envType=daily-question&envId=2024-09-21
