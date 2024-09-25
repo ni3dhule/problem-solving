@@ -46,3 +46,5 @@ https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description
 https://leetcode.com/problems/extra-characters-in-a-string/?envType=daily-question&envId=2024-09-23
 24. 3043. Find the Length of the Longest Common Prefix
 https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/?envType=daily-question&envId=2024-09-24
+25. 2416. Sum of Prefix Scores of Strings
+https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/?envType=daily-question&envId=2024-09-25
