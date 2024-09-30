@@ -56,3 +56,5 @@ https://leetcode.com/problems/my-calendar-ii/description/?envType=daily-question
 https://leetcode.com/problems/design-circular-deque/description/?envType=daily-question&envId=2024-09-28
 29. 432. All O`one Data Structure
 https://leetcode.com/problems/all-oone-data-structure/description/?envType=daily-question&envId=2024-09-29
+30. 1381. Design a Stack With Increment Operation
+https://leetcode.com/problems/design-a-stack-with-increment-operation/description/?envType=daily-question&envId=2024-09-30
