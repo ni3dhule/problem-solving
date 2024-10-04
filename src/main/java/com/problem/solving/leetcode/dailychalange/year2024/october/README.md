@@ -4,3 +4,5 @@ https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/descriptio
 https://leetcode.com/problems/rank-transform-of-an-array/description/?envType=daily-question&envId=2024-10-02
 3. 1590. Make Sum Divisible by P
 https://leetcode.com/problems/make-sum-divisible-by-p/description/?envType=daily-question&envId=2024-10-03
+4. 2491. Divide Players Into Teams of Equal Skill
+https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/?envType=daily-question&envId=2024-10-04
