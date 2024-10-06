@@ -8,3 +8,5 @@ https://leetcode.com/problems/make-sum-divisible-by-p/description/?envType=daily
 https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/?envType=daily-question&envId=2024-10-04
 5. 567. Permutation in String --> session 15 : Hemant
 https://leetcode.com/problems/permutation-in-string/description/?envType=daily-question&envId=2024-10-05
+6. 1813. Sentence Similarity III
+https://leetcode.com/problems/sentence-similarity-iii/description/?envType=daily-question&envId=2024-10-06
