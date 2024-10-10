@@ -16,3 +16,5 @@ https://leetcode.com/problems/minimum-string-length-after-removing-substrings/de
 https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/submissions/1416180389/?envType=daily-question&envId=2024-10-08
 9. 921. Minimum Add to Make Parentheses Valid
 https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/?envType=daily-question&envId=2024-10-09
+10. 962. Maximum Width Ramp
+https://leetcode.com/problems/maximum-width-ramp/description/?envType=daily-question&envId=2024-10-10
