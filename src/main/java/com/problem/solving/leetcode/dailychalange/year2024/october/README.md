@@ -18,3 +18,5 @@ https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balance
 https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/?envType=daily-question&envId=2024-10-09
 10. 962. Maximum Width Ramp
 https://leetcode.com/problems/maximum-width-ramp/description/?envType=daily-question&envId=2024-10-10
+11. 1942. The Number of the Smallest Unoccupied Chair
+https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/?envType=daily-question&envId=2024-10-11
