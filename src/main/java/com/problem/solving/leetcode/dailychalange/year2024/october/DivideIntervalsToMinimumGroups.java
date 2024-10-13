@@ -1,5 +1,4 @@
 package com.problem.solving.leetcode.dailychalange.year2024.october;
-
 import java.util.Arrays;
 
 public class DivideIntervalsToMinimumGroups {
