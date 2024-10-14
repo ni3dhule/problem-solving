@@ -24,3 +24,5 @@ https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/descri
 https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/?envType=daily-question&envId=2024-10-12
 13. 632. Smallest Range Covering Elements from K Lists
 https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/?envType=daily-question&envId=2024-10-13
+14. 2530. Maximal Score After Applying K Operations
+15. https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/?envType=daily-question&envId=2024-10-14
