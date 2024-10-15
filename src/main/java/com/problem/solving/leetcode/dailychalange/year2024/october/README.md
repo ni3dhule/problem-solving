@@ -25,4 +25,6 @@ https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/des
 13. 632. Smallest Range Covering Elements from K Lists
 https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/?envType=daily-question&envId=2024-10-13
 14. 2530. Maximal Score After Applying K Operations
-15. https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/?envType=daily-question&envId=2024-10-14
+https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/?envType=daily-question&envId=2024-10-14
+15. 2938. Separate Black and White Balls -- prepare interview question
+https://leetcode.com/problems/separate-black-and-white-balls/description/?envType=daily-question&envId=2024-10-15
