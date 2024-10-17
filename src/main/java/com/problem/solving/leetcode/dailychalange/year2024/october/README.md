@@ -30,3 +30,5 @@ https://leetcode.com/problems/maximal-score-after-applying-k-operations/descript
 https://leetcode.com/problems/separate-black-and-white-balls/description/?envType=daily-question&envId=2024-10-15
 16. 1405. Longest Happy String
 https://leetcode.com/problems/longest-happy-string/description/?envType=daily-question&envId=2024-10-16
+17. 670. Maximum Swap
+https://leetcode.com/problems/maximum-swap/description/?envType=daily-question&envId=2024-10-17
