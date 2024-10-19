@@ -34,3 +34,5 @@ https://leetcode.com/problems/longest-happy-string/description/?envType=daily-qu
 https://leetcode.com/problems/maximum-swap/description/?envType=daily-question&envId=2024-10-17
 18. 2044. Count Number of Maximum Bitwise-OR Subsets
 https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/?envType=daily-question&envId=2024-10-18
+19. 1545. Find Kth Bit in Nth Binary String
+https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/?envType=daily-question&envId=2024-10-19
