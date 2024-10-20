@@ -36,3 +36,5 @@ https://leetcode.com/problems/maximum-swap/description/?envType=daily-question&e
 https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/?envType=daily-question&envId=2024-10-18
 19. 1545. Find Kth Bit in Nth Binary String
 https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/?envType=daily-question&envId=2024-10-19
+20. 1106. Parsing A Boolean Expression
+https://leetcode.com/problems/parsing-a-boolean-expression/description/?envType=daily-question&envId=2024-10-20
