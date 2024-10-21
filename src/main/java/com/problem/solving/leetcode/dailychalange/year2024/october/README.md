@@ -38,3 +38,5 @@ https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/descrip
 https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/?envType=daily-question&envId=2024-10-19
 20. 1106. Parsing A Boolean Expression
 https://leetcode.com/problems/parsing-a-boolean-expression/description/?envType=daily-question&envId=2024-10-20
+21. 1593. Split a String Into the Max Number of Unique Substrings
+https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/description/?envType=daily-question&envId=2024-10-21
