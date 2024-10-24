@@ -44,3 +44,5 @@ https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-subst
 https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/?envType=daily-question&envId=2024-10-22
 23. 2641. Cousins in Binary Tree II
 https://leetcode.com/problems/cousins-in-binary-tree-ii/description/?envType=daily-question&envId=2024-10-23
+24. 951. Flip Equivalent Binary Trees
+https://leetcode.com/problems/flip-equivalent-binary-trees/description/?envType=daily-question&envId=2024-10-24
