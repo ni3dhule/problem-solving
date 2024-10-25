@@ -28,7 +28,7 @@ https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/desc
 https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/?envType=daily-question&envId=2024-10-14
 15. 2938. Separate Black and White Balls -- prepare interview question
 https://leetcode.com/problems/separate-black-and-white-balls/description/?envType=daily-question&envId=2024-10-15
-16. 1405. Longest Happy String
+16. 1405. Longest Happy String -- prepare interview question
 https://leetcode.com/problems/longest-happy-string/description/?envType=daily-question&envId=2024-10-16
 17. 670. Maximum Swap
 https://leetcode.com/problems/maximum-swap/description/?envType=daily-question&envId=2024-10-17
@@ -46,3 +46,5 @@ https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/?envT
 https://leetcode.com/problems/cousins-in-binary-tree-ii/description/?envType=daily-question&envId=2024-10-23
 24. 951. Flip Equivalent Binary Trees
 https://leetcode.com/problems/flip-equivalent-binary-trees/description/?envType=daily-question&envId=2024-10-24
+25. 1233. Remove Sub-Folders from the Filesystem -- prepare interview question
+https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/?envType=daily-question&envId=2024-10-25
