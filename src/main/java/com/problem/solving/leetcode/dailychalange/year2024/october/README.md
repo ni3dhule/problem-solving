@@ -48,3 +48,5 @@ https://leetcode.com/problems/cousins-in-binary-tree-ii/description/?envType=dai
 https://leetcode.com/problems/flip-equivalent-binary-trees/description/?envType=daily-question&envId=2024-10-24
 25. 1233. Remove Sub-Folders from the Filesystem -- prepare interview question
 https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/?envType=daily-question&envId=2024-10-25
+26. 2458. Height of Binary Tree After Subtree Removal Queries
+https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/description/?envType=daily-question&envId=2024-10-26
