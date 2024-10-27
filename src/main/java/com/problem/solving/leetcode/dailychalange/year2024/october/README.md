@@ -50,3 +50,5 @@ https://leetcode.com/problems/flip-equivalent-binary-trees/description/?envType=
 https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/?envType=daily-question&envId=2024-10-25
 26. 2458. Height of Binary Tree After Subtree Removal Queries
 https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/description/?envType=daily-question&envId=2024-10-26
+27. 1277. Count Square Submatrices with All Ones
+https://leetcode.com/problems/count-square-submatrices-with-all-ones/solutions/?envType=daily-question&envId=2024-10-27
