@@ -54,3 +54,5 @@ https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-querie
 https://leetcode.com/problems/count-square-submatrices-with-all-ones/solutions/?envType=daily-question&envId=2024-10-27
 28. 2501. Longest Square Streak in an Array
 https://leetcode.com/problems/longest-square-streak-in-an-array/description/?envType=daily-question&envId=2024-10-28
+29. 2684. Maximum Number of Moves in a Grid
+https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/?envType=daily-question&envId=2024-10-29
