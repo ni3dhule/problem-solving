@@ -56,3 +56,5 @@ https://leetcode.com/problems/count-square-submatrices-with-all-ones/solutions/?
 https://leetcode.com/problems/longest-square-streak-in-an-array/description/?envType=daily-question&envId=2024-10-28
 29. 2684. Maximum Number of Moves in a Grid
 https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/?envType=daily-question&envId=2024-10-29
+30. 1671. Minimum Number of Removals to Make Mountain Array
+https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/?envType=daily-question&envId=2024-10-30
