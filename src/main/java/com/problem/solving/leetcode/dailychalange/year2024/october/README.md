@@ -58,3 +58,5 @@ https://leetcode.com/problems/longest-square-streak-in-an-array/description/?env
 https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/?envType=daily-question&envId=2024-10-29
 30. 1671. Minimum Number of Removals to Make Mountain Array
 https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/?envType=daily-question&envId=2024-10-30
+31. 2463. Minimum Total Distance Traveled
+https://leetcode.com/problems/minimum-total-distance-traveled/description/?envType=daily-question&envId=2024-10-31
