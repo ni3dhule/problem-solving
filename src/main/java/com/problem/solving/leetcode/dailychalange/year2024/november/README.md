@@ -4,3 +4,5 @@ https://leetcode.com/problems/delete-characters-to-make-fancy-string/description
 https://leetcode.com/problems/circular-sentence/description/?envType=daily-question&envId=2024-11-02
 3. 796. Rotate String
 https://leetcode.com/problems/rotate-string/description/?envType=daily-question&envId=2024-11-03
+4. 3163. String Compression III
+https://leetcode.com/problems/string-compression-iii/description/?envType=daily-question&envId=2024-11-04
