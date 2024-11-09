@@ -13,4 +13,6 @@ https://leetcode.com/problems/find-if-array-can-be-sorted/description/?envType=d
 7. 2275. Largest Combination With Bitwise AND Greater Than Zero
 https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/?envType=daily-question&envId=2024-11-07
 8. 1829. Maximum XOR for Each Query
-https://leetcode.com/problems/maximum-xor-for-each-query/description/?envType=daily-question&envId=2024-11-08
+https://leetcode.com/problems/maximum-xor-for-each-query/description/?envType=daily-question&envId=2024-11-0
+9. 3133. Minimum Array End
+https://leetcode.com/problems/minimum-array-end/description/?envType=daily-question&envId=2024-11-09
