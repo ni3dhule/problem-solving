@@ -16,3 +16,5 @@ https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-
 https://leetcode.com/problems/maximum-xor-for-each-query/description/?envType=daily-question&envId=2024-11-0
 9. 3133. Minimum Array End
 https://leetcode.com/problems/minimum-array-end/description/?envType=daily-question&envId=2024-11-09
+10. 3097. Shortest Subarray With OR at Least K II
+https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/?envType=daily-question&envId=2024-11-10
