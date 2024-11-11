@@ -18,3 +18,5 @@ https://leetcode.com/problems/maximum-xor-for-each-query/description/?envType=da
 https://leetcode.com/problems/minimum-array-end/description/?envType=daily-question&envId=2024-11-09
 10. 3097. Shortest Subarray With OR at Least K II
 https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/?envType=daily-question&envId=2024-11-10
+11. 2601. Prime Subtraction Operation
+https://leetcode.com/problems/prime-subtraction-operation/description/?envType=daily-question&envId=2024-11-11
