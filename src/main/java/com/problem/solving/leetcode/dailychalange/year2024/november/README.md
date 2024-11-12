@@ -20,3 +20,5 @@ https://leetcode.com/problems/minimum-array-end/description/?envType=daily-quest
 https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/?envType=daily-question&envId=2024-11-10
 11. 2601. Prime Subtraction Operation
 https://leetcode.com/problems/prime-subtraction-operation/description/?envType=daily-question&envId=2024-11-11
+12. 2070. Most Beautiful Item for Each Query
+https://leetcode.com/problems/most-beautiful-item-for-each-query/description/?envType=daily-question&envId=2024-11-12
