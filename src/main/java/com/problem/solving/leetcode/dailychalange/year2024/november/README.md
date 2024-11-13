@@ -22,3 +22,5 @@ https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/descriptio
 https://leetcode.com/problems/prime-subtraction-operation/description/?envType=daily-question&envId=2024-11-11
 12. 2070. Most Beautiful Item for Each Query
 https://leetcode.com/problems/most-beautiful-item-for-each-query/description/?envType=daily-question&envId=2024-11-12
+13. 2563. Count the Number of Fair Pairs
+https://leetcode.com/problems/count-the-number-of-fair-pairs/description/?envType=daily-question&envId=2024-11-13
