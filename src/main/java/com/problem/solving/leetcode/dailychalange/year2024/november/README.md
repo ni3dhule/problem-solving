@@ -24,3 +24,5 @@ https://leetcode.com/problems/prime-subtraction-operation/description/?envType=d
 https://leetcode.com/problems/most-beautiful-item-for-each-query/description/?envType=daily-question&envId=2024-11-12
 13. 2563. Count the Number of Fair Pairs
 https://leetcode.com/problems/count-the-number-of-fair-pairs/description/?envType=daily-question&envId=2024-11-13
+14. 2064. Minimized Maximum of Products Distributed to Any Store
+https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/?envType=daily-question&envId=2024-11-14
