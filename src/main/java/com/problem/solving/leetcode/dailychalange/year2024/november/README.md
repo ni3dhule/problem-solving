@@ -26,3 +26,5 @@ https://leetcode.com/problems/most-beautiful-item-for-each-query/description/?en
 https://leetcode.com/problems/count-the-number-of-fair-pairs/description/?envType=daily-question&envId=2024-11-13
 14. 2064. Minimized Maximum of Products Distributed to Any Store
 https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/?envType=daily-question&envId=2024-11-14
+15. 1574. Shortest Subarray to be Removed to Make Array Sorted
+https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/?envType=daily-question&envId=2024-11-15
