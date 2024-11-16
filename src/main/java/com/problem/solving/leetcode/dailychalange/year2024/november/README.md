@@ -28,3 +28,5 @@ https://leetcode.com/problems/count-the-number-of-fair-pairs/description/?envTyp
 https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/?envType=daily-question&envId=2024-11-14
 15. 1574. Shortest Subarray to be Removed to Make Array Sorted
 https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/?envType=daily-question&envId=2024-11-15
+16. 3254. Find the Power of K-Size Subarrays I
+https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/description/?envType=daily-question&envId=2024-11-16
