@@ -1,7 +1,7 @@
 package com.problem.solving.leetcode.dailychalange.year2024.november;
 
 public class DefuseBomb {
-    public int[] decrypt(int[] code, int k) {
+    public static int[] decrypt(int[] code, int k) {
         int N = code.length;
         int[] res = new int[N];
 
