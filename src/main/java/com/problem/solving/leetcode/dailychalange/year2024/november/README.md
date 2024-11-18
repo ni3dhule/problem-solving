@@ -32,3 +32,5 @@ https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sort
 https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/description/?envType=daily-question&envId=2024-11-16
 **17. 862. Shortest Subarray with Sum at Least K**
 https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/?envType=daily-question&envId=2024-11-17
+**18. 1652. Defuse the Bomb **
+https://leetcode.com/problems/defuse-the-bomb/description/?envType=daily-question&envId=2024-11-18
